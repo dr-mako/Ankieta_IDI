@@ -1,0 +1,43 @@
+﻿relation_id,respondent_id,transcript_file,segment_id,segment_text,source_construct,relation_type,target_construct,intensity,certainty,memo
+1,5,5.txt,0,nie mamy do czynienia z osobą fizyczną wykonującą pracę,autonomous_operation,reduces,labor_costs,0.95,0.97,Autonomizacja ogranicza zapotrzebowanie na kierowców
+2,5,5.txt,0,potrzebujemy powiedzmy 2 koordynatorów,workforce_efficiency,amplifies,operational_efficiency,0.84,0.89,Mniejsza liczba operatorów zwiększa efektywność
+3,5,5.txt,0,podniesienie parametrów stopnia wykorzystania i gotowości,autonomous_operation,amplifies,operational_efficiency,0.93,0.96,Autonomia zwiększa dostępność eksploatacyjną
+4,5,5.txt,0,pojazd jest niezawodny,technological_maturity,amplifies,continuous_transport,0.88,0.92,Niezawodność wspiera ciągłość operacji
+5,5,5.txt,0,program jazdy ekonomicznej,operational_efficiency,reduces,energy_reduction,0.77,0.84,Eko-jazda zmniejsza zużycie paliwa
+6,5,5.txt,0,to jest utopia,technological_maturity,constrains,energy_reduction,0.74,0.8,Ograniczenia technologiczne utrudniają oszczędność energii
+7,5,5.txt,0,emisja praktycznie niewiele się zmienia,energy_source,conflicts_with,environmental_impact,0.82,0.87,Źródło energii ogranicza korzyści środowiskowe
+8,5,5.txt,0,elektrownie atomowe ... widziałbym pewne korzyści,energy_source,reduces,environmental_impact,0.71,0.78,Czyste źródła energii ograniczają emisje
+9,5,5.txt,0,będzie lepiej postrzegane,social_image,amplifies,business_acceptance,0.83,0.88,Nowoczesny wizerunek zwiększa akceptację
+10,5,5.txt,0,pojazdy kolejowe wezmą na swoje wagony ciężarówki,cross_border_interoperability,amplifies,traffic_efficiency,0.86,0.9,Transport intermodalny zmniejsza kongestię
+11,5,5.txt,0,zmniejszenie kongestii drogowej,traffic_efficiency,amplifies,operational_efficiency,0.88,0.92,Mniejsza kongestia poprawia efektywność
+12,5,5.txt,0,koszt wypadku będzie większy,deployment_risk,amplifies,environmental_impact,0.79,0.84,Wypadki pojazdów elektrycznych zwiększają ryzyko środowiskowe
+13,5,5.txt,0,komfort podróżowania,autonomous_operation,amplifies,free_time,0.9,0.94,Autonomia zwiększa komfort i możliwość odpoczynku
+14,5,5.txt,0,poziom bezpieczeństwa byłby większy,consumer_safety,amplifies,health_protection,0.89,0.93,Większe bezpieczeństwo chroni zdrowie
+15,5,5.txt,0,system kontroli ruchu musiałby być doprowadzony do perfekcji,supporting_infrastructure,conditions,consumer_safety,0.92,0.95,ITS warunkuje bezpieczeństwo
+16,5,5.txt,0,mniejszej ilości stłuczek,accident_reduction,reduces,implementation_cost,0.81,0.86,Mniej kolizji obniża koszty serwisu
+17,5,5.txt,0,duża liczba biernych uczestników transportu,mobility_improvement,amplifies,social_acceptance,0.72,0.8,Większa dostępność zwiększa udział użytkowników
+18,5,5.txt,0,płynność ruchu jest bez wątpienia lepsza,traffic_efficiency,amplifies,operational_efficiency,0.9,0.94,Lepsza płynność poprawia efektywność
+19,5,5.txt,0,parkowanie odbywałoby się podobnie,parking_efficiency,amplifies,traffic_efficiency,0.68,0.75,Lepsze parkowanie wspiera płynność ruchu
+20,5,5.txt,0,zaznaczamy tak,autonomous_operation,amplifies,free_time,0.65,0.73,Autonomia potencjalnie zwiększa wolny czas
+21,5,5.txt,0,stabilne źródło zasilania pojazdu autonomicznego,energy_source,conditions,autonomous_operation,0.93,0.96,Autonomia wymaga stabilnego źródła energii
+22,5,5.txt,0,dehumanizacja człowieka,social_acceptance,suppresses,market_adaptation,0.88,0.92,Dehumanizacja ogranicza akceptację społeczną
+23,5,5.txt,0,świadomość społeczna to kolejna przeszkoda,social_acceptance,conditions,market_adaptation,0.84,0.89,Akceptacja społeczna warunkuje wdrożenie
+24,5,5.txt,0,infrastruktura ... musi ona być cała przemodelowana,infrastructure_readiness,conditions,autonomous_operation,0.95,0.97,Gotowość infrastruktury warunkuje autonomię
+25,5,5.txt,0,rozwiązania systemowe buduje się dekadami,supporting_infrastructure,conditions,autonomous_operation,0.89,0.92,Systemy ITS są niezbędne
+26,5,5.txt,0,trzeba tak prawo dostosować,regulatory_governance,conditions,autonomous_operation,0.91,0.95,Prawo warunkuje wdrożenie autonomii
+27,5,5.txt,0,informacja jest towarem,data_management,conflicts_with,consumer_safety,0.76,0.83,Ryzyko wykorzystania danych ogranicza bezpieczeństwo
+28,5,5.txt,0,bezpieczeństwo cybernetyczne jest niemożliwe,cybersecurity,conflicts_with,market_adaptation,0.9,0.94,Brak pełnego cyberbezpieczeństwa ogranicza wdrożenie
+29,5,5.txt,0,trzeba mieć ogromne środki,Badanie_rozwój,depends_on,investment_requirements,0.87,0.91,Badania wymagają dużych nakładów
+30,5,5.txt,0,infrastruktura ... będzie kosztowało majątek,investment_requirements,constrains,infrastructure_readiness,0.94,0.96,Koszty ograniczają rozwój infrastruktury
+31,5,5.txt,0,ogromnym zapotrzebowaniem na elektronikę,investment_requirements,constrains,market_adaptation,0.82,0.87,Koszty elektroniki ograniczają wdrożenie
+32,5,5.txt,0,ochrony ubezpieczeniowej,insurance_protection,conditions,market_adaptation,0.8,0.86,Ubezpieczenia warunkują adaptację
+33,5,5.txt,0,będą potrzebne pewne szkolenia,workforce_efficiency,enables,consumer_safety,0.77,0.84,Szkolenia wspierają bezpieczeństwo
+34,5,5.txt,0,wydzielonych obszarów testowych,deployment_risk,reduces,market_adaptation,0.71,0.78,Strefy testowe ograniczają ryzyko wdrożenia
+35,5,5.txt,0,znaki były czytelne dla tych samochodów,signal_visibility,conditions,autonomous_operation,0.92,0.95,Czytelne oznakowanie warunkuje autonomię
+36,5,5.txt,0,technologii telekomunikacyjnych zapewniających łączność,technology_standardization,enables,cross_border_interoperability,0.89,0.92,Standaryzacja wspiera interoperacyjność
+37,5,5.txt,0,optymalizacja infrastruktury lokalnej,infrastructure_optimization,enables,traffic_efficiency,0.88,0.91,Lepsza infrastruktura poprawia ruch
+38,5,5.txt,0,sterowaniem tym ruchem,supporting_infrastructure,amplifies,traffic_efficiency,0.86,0.9,ITS poprawia płynność ruchu
+39,5,5.txt,0,najlepszym poligonem jest transport szynowy,road_infrastructure,conditions,autonomous_operation,0.78,0.84,Transport szynowy sprzyja autonomii
+40,5,5.txt,0,transport odgrywa kluczowe ogniwo,continuous_transport,amplifies,operational_efficiency,0.9,0.93,Ciągłość operacji zwiększa efektywność
+41,5,5.txt,0,jednego pociągu autonomicznego zamiast 100 pojazdów,autonomous_operation,reduces,traffic_efficiency,0.73,0.8,Transport autonomiczny ogranicza ruch drogowy
+42,5,5.txt,0,rozmowa i otwartość,regulatory_governance,stabilizes,market_adaptation,0.75,0.82,Dialog wspiera adaptację rynku

@@ -1,0 +1,265 @@
+Numer nagrania 96
+
+ 
+
+ 
+
+ 
+
+1.Proszę wskazać czy, a jeśli tak, to jakie korzyści wynikające z użytkowania pojazdów autonomicznych z punktu widzenia przedsiębiorstw branży transportowej?
+
+ 
+
+Na pewno korzyścią jest to, że auto nie potrzebuje kierowcy, jest to duża oszczędność finansowa. Paliwo też będzie oszczędnością, bo system jedzie efektywniej niż kierowca. 
+
+ 
+
+2. Proszę o wskazanie, które z wymienionych teraz przeze mnie korzyści są z Pani/a punktu widzenia istotne i wskazanie, dlaczego?
+
+ 
+
+- optymalizacja kosztów funkcjonowania przedsiębiorstw
+
+Brak wynagrodzeń dla kierowców.
+
+ 
+
+- zmiana wydajności pracy
+
+Tak, znika problem maksymalnego czasu kierowcy. Brak przestojów na trasie na pauzy dla kierowców. 
+
+ 
+
+- zużycie energii (w tym paliw)
+
+Tak, mniejsze zużycie w skali miesiąca.
+
+ 
+
+- redukcja negatywnego wpływu pojazdów na klimat i środowisko (redukcja zanieczyszczeń, hałasu)
+
+Tak, poprzez ekonomiczną jazdę, bo wiem jak jeżdżą kierowcy, nieekonomicznie, więc tu może być różnica 1-2 litrów, w skali miesiąca to jest dużo. Również zużycie CO2, auta ciężarowe produkują miesięcznie tonę dwieście CO2, a w przypadku tych pojazdów autonomicznych jest różnica nawet 150 kilogramów.
+
+ 
+
+– poprawa społecznego wizerunku przedsiębiorstwa
+
+Wydaje mi się, że tak, w kontekście trendu ekologii.
+
+ 
+
+- skrócenie czasu przewozów poprzez lepsze wykorzystanie istniejącej infrastruktury drogowej (zmniejszenie kongestii)
+
+Tak, ale to by miało sens jakbyśmy mieli trzy pasmowe autostrady, a jeden pas byłby tylko dla ciężarówek. 
+
+ 
+
+- koszty wypadków
+
+Podejrzewam, że wypadków byłoby mniej, może nie da się ich wyeliminować, ale na pewno wpłynie to na koszty ubezpieczenia OC. 
+
+ 
+
+3.Proszę wskazać czy, a jeśli tak, to jakie korzyści wynikające z użytkowania pojazdów autonomicznych z punktu widzenia uczestników ruchu drogowego?
+
+Oszczędność hamulców, jeżeli ciężarówki miałyby osobny pas, nie trzeba by było tyle hamować. Jeśli zmieni się źródło zasilania i byłoby to auto z napędem elektrycznym to wydaje mi się, że jednak optymalizacja kosztów byłaby znaczna. 
+
+ 
+
+4.Proszę o wskazanie, które z wymienionych teraz przeze mnie korzyści są z Pani/a punktu widzenia istotne i wskazanie, dlaczego?
+
+ 
+
+- ochrona zdrowia i życia
+
+Tak, mniejsza ilość wypadków. 
+
+
+
+- koszty serwisowania pojazdów
+
+Mniejsze składki, oszczędność na wizytach u mechanika, zwłaszcza jeżeli chodzi o hamulce, bo te samochody sprawnie hamują silnikiem.
+
+ 
+
+- parkowanie pojazdów
+
+Przy podjazdach pod rampy na pewno, nie byłyby pourywane. 
+
+ 
+
+– poprawa mobilności
+
+Wydaje mi się, że mobilność się zwiększy, więc chyba tak.
+
+ 
+
+- lepsze wykorzystanie istniejącej infrastruktury drogowej (zmniejszenie kongestii)
+
+Tak, w przypadku dodatkowego pasu. 
+
+ 
+
+- wolny czas
+
+Podejrzewam, że tak, kierowcy mieliby wolny czas. Byłby bardziej wyspany.
+
+ 
+
+5. Proszę wskazać czy, a jeśli tak, to jakie przeszkody dla rozwoju CAV w ciągu najbliższych lat dostrzega Pan/i?
+
+ 
+
+Infrastruktura drogowa, nie wiem, czy jest gotowa w Polsce na przyjęcie takich pojazdów. Trzeba by jakoś rozwiązać system przekazywania dokumentów, pilnowania dokumentów, odbezpieczenia i zabezpieczenia towarów. Magazynier musiałby przejąć wiele czynności, które aktualnie wykonuje kierowca. 
+
+ 
+
+6.Proszę o wskazanie, które z wymienionych teraz przeze mnie przeszkód są z Pani/a punktu widzenia istotne i wskazanie, dlaczego?
+
+ 
+
+- zaufanie konsumentów do technologicznych „nowinek” (ostrożność wobec niesprawdzonych technologii)
+
+Tak, na przykład konserwatywne firmy, lubiące tradycyjne rozwiązania, w Polsce może być z tym problem. Mogą być opory.
+
+ 
+
+- niedojrzałość technologii i przedłużający się proces ich testowania
+
+Tak też mi się wydaje.
+
+ 
+
+- koszt wdrożenia rozwiązań CAV
+
+To na pewno będzie duży koszt, ale na pewno po jakimś czasie ten koszt się zmniejszy. 
+
+ 
+
+- zapotrzebowanie na energię w związku z wykorzystaniem CAV
+
+Może stanowić przeszkodę, w niektórych krajach występują braki energii, więc to może być duży problem czasami.
+
+ 
+
+- zapewnienie wystarczającej ochrony wrażliwych danych (tajemnicy przedsiębiorstwa)
+
+Tak, na przykład takie auta mogłyby być łatwym łupem dla hakerów, można się do takiego auta włamać. 
+
+ 
+
+ 
+
+- ogólnodostępne środki wspierające badania i rozwój
+
+Tak. 
+
+ 
+
+- regulacje zapewniające odpowiedzialność producentów, dostawców oprogramowania, operatorów infrastruktury
+
+Podejrzewam, że tak i całe regulacje incoterms będą musiały zostać zmienione, może nas czekać duża rewolucja. 
+
+ 
+
+- procedury regulacyjne (ingerencja organów państwa)
+
+To zależy, może to w przypadku Polski, nie wiem jak szybko te regulacje mogą się pojawić, na razie nikt nie zezwolił na używanie samochodów w pełni autonomicznych, więc na ciężarówki pewnie też trochę poczekamy. 
+
+
+
+ 
+
+7.Proszę wskazać czy, a jeśli tak, to jakie koszty i wyzwania związane z wprowadzaniem pojazdów i usług CAV w Polsce dostrzega Pan/i?
+
+Infrastruktura, bezpieczeństwo danych, potrzeba uświadamiania społeczeństwa, firmy musiałyby zachęcić klientów do zmian na samochody autonomiczne. Codzienna obsługa samochodów, dodatkowe szkolenia dla kierowców, zarządców. Na kogoś musiałaby spaść codzienna obsługa i sprawdzenie tych samochodów pod względem bezpieczeństwa, zabezpieczenia ładunku. Problemem może być też częsta kradzież takich samochodów. 
+
+ 
+
+8.Proszę o wskazanie, które z wymienionych teraz przeze mnie kosztów i wyzwań są z Pani/a punktu widzenia istotne i wskazanie, dlaczego?
+
+ 
+
+- konieczność pozyskania dodatkowych środków na inwestycje w technologię
+
+Tak, może być to wyzwanie, nie wiem jaka może być cena takiego samochodu, ale może to być znaczna kwota. 
+
+ 
+
+- rozwój infrastruktury (np. dodatkowych pasów ruchu umożliwiających platooning)
+
+Wydzielone obszary dla tych aut, stworzenie ich to na pewno będzie koszt. 
+
+ 
+
+- zapewnienie wystarczającej ochrony ubezpieczeniowej
+
+Tak, tutaj może byśmy zaoszczędzili na samym OC, ale w przypadku kosztu ewentualnych strat i OC pracownika mogłoby pójść wysoko. 
+
+ 
+
+- potrzeba opracowania etycznych standardów wdrażania technologii automatyzujących transport
+
+Nie wiem, może. 
+
+ 
+
+10.  Proszę o wskazanie, które z wymienionych teraz przeze mnie wymagania są z Pani/a punktu widzenia istotne i wskazanie, dlaczego?
+
+ 
+
+- stworzenie wydzielonych obszarów testowych na wybranych odcinkach autostrad i dróg ekspresowych
+
+wydaje mi się, że tak.
+
+ 
+
+- stworzenie wydzielonych obszarów testowych w miastach
+
+Tak czy siak trzeba to przetestować w mieście, tylko trzeba by to było wydzielić takie obszary, które zapewniałyby bezpieczeństwo 
+
+ 
+
+- zapewnienie czytelności dla CAV znaków i sygnałów drogowych w warunkach lokalnych (standaryzacja)
+
+No na pewno ten standard znaków i ich czytelności musi być jednolity i na wysokim poziomie, aby te auta mogły wszystko wyłapać. 
+
+ 
+
+- standaryzacja technologii telekomunikacyjnych zapewniających łączność V2X (np. upowszechnienie technologii 5G)
+
+Z pewnością te auta musiałyby być połączone, kontaktować się ze sobą. Na pewno auto musiałoby widzieć drugie auto. 
+
+ 
+
+- optymalizacja infrastruktury lokalnej (skrzyżowań, krajobrazu ulic itp.)
+
+Tak mi się wydaje, bo autostrady to sytuacje mamy klarowną, tak dużych komplikacji nie ma, ale w przypadku dróg wojewódzkich czy gminnych, gdzie są wsie to tutaj to musiałoby być konkretniej uregulowane. 
+
+ 
+
+- zapewnienie infrastruktury wspomagającej usługi oparte na współpracujących inteligentnych systemach transportowych
+
+Chyba już o wszystkim wcześniej wspomniałem. 
+
+ 
+
+11. Jak wdrożenie CAV zmieni sektor TSL? Jakie widzi Pan/i scenariusze/prognozy na przyszłość?
+
+Na pewno transport by się zoptymalizował znacznie, zmniejszyłyby się koszty, zwiększyłaby się wydajność i podejrzewam, że uniknęlibyśmy w niektórych zimach tego, że zatrzymuje się produkcja, bo towar nie dojechał. Więcej firm stosowałoby just in time, zmniejszyłyby się koszty magazynowania. 
+
+
+
+ 
+
+12. Jakie sformułował(a)by Pan/i rekomendacje odnośnie działań przyspieszających pełniejsze wykorzystanie CAV w modelach biznesowych firm polskich?
+
+Trzeba by było przyzwyczajać przedsiębiorców i użytkowników takich samochodów. 
+
+ 
+
+ 
+
+13. Jakiego wsparcia oczekuje Pan/i od administracji publicznej w procesie wdrażania CAV w przedsiębiorstwach?
+
+Dobrze by było, jakby były takie dopłaty do tych samochodów, zmniejszenie opłat drogowych, to by zachęciło do unowocześnienia taboru.

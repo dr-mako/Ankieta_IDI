@@ -1,0 +1,45 @@
+﻿relation_id,respondent_id,transcript_file,segment_id,segment_text,source_construct,relation_type,target_construct,intensity,certainty,memo
+1,3,3.txt,0,kierowców ... jest trudno i stawki cały czas idą w górę,autonomous_operation,reduces,labor_costs,0.92,0.95,Autonomizacja ogranicza zależność od kierowców
+2,3,3.txt,0,pod kątem bezpieczeństwa to dałoby jakieś korzyści,autonomous_operation,amplifies,consumer_safety,0.88,0.92,Autonomia poprawia bezpieczeństwo
+3,3,3.txt,0,czas pracy kierowcy tu nie ma znaczenia,continuous_transport,amplifies,operational_efficiency,0.91,0.94,Brak ograniczeń czasu pracy zwiększa efektywność
+4,3,3.txt,0,automat będzie optymalizować wszystko,operational_efficiency,reduces,energy_reduction,0.85,0.89,Automatyzacja zmniejsza zużycie paliwa
+5,3,3.txt,0,"może nie byłyby spalinowe, a elektryczne",energy_source,reduces,environmental_impact,0.82,0.87,Elektryfikacja ogranicza wpływ środowiskowy
+6,3,3.txt,0,"dla dużych klientów jak Zalando, Amazon",social_image,amplifies,business_acceptance,0.74,0.82,Nowoczesny wizerunek zwiększa atrakcyjność firmy
+7,3,3.txt,0,skrócenie czasu przewozów,traffic_efficiency,amplifies,operational_efficiency,0.83,0.88,Lepsza przepustowość zwiększa efektywność
+8,3,3.txt,0,brak zaufania,social_acceptance,suppresses,market_adaptation,0.86,0.9,Brak zaufania ogranicza adaptację rynku
+9,3,3.txt,0,ochrona zdrowia i życia - to na pewno,consumer_safety,amplifies,health_protection,0.9,0.94,Bezpieczeństwo poprawia ochronę zdrowia
+10,3,3.txt,0,ciężarówka autonomiczna lepiej by sobie radziła w trasie,operational_efficiency,reduces,energy_reduction,0.77,0.84,Lepsza jazda ogranicza zużycie energii
+11,3,3.txt,0,nie musiałyby się zatrzymywać na parkingach,continuous_transport,amplifies,traffic_efficiency,0.84,0.88,Ciągły ruch poprawia przepływ
+12,3,3.txt,0,przeszkody prawne,regulatory_governance,constrains,autonomous_operation,0.93,0.96,Brak regulacji ogranicza autonomię
+13,3,3.txt,0,nasza infrastruktura mogłaby dużo nie pomagać,infrastructure_readiness,conditions,autonomous_operation,0.92,0.95,Stan infrastruktury warunkuje wdrożenie
+14,3,3.txt,0,trzeba ich do tego przekonać,social_acceptance,conditions,market_adaptation,0.8,0.86,Akceptacja społeczna warunkuje adopcję
+15,3,3.txt,0,koszty ... dużo pieniędzy będzie kosztowało,implementation_cost,constrains,market_adaptation,0.91,0.94,Wysokie koszty utrudniają wdrożenie
+16,3,3.txt,0,ostrożność do niesprawdzonych technologii,technological_maturity,conditions,business_acceptance,0.79,0.84,Niedojrzałość technologii ogranicza akceptację
+17,3,3.txt,0,dla naszego kraju to może być problem,energy_source,constrains,market_adaptation,0.71,0.79,Problemy energetyczne ograniczają wdrożenie
+18,3,3.txt,0,zapewnienie wystarczającego bezpieczeństwa cybernetycznego,cybersecurity,conditions,autonomous_operation,0.9,0.94,Cyberbezpieczeństwo jest warunkiem autonomii
+19,3,3.txt,0,regulacje zapewniające odpowiedzialność producentów,regulatory_governance,stabilizes,consumer_safety,0.82,0.88,Regulacje zwiększają bezpieczeństwo
+20,3,3.txt,0,poprawa dróg,road_infrastructure,enables,autonomous_operation,0.9,0.93,Lepsza infrastruktura umożliwia autonomię
+21,3,3.txt,0,zmiana ustawodawstwa prawnego,regulatory_governance,enables,market_adaptation,0.86,0.9,Zmiany prawne wspierają adaptację
+22,3,3.txt,0,"przystosowanie pracy magazynów, sieci dystrybucyjnych",supporting_infrastructure,enables,autonomous_operation,0.81,0.87,Adaptacja infrastruktury wspiera wdrożenie
+23,3,3.txt,0,wprowadzenie programów czy platform,data_management,enables,operational_efficiency,0.78,0.84,Platformy zwiększają kontrolę operacyjną
+24,3,3.txt,0,"przeszkolenie policji, organów",workforce_efficiency,stabilizes,consumer_safety,0.73,0.8,Szkolenia wspierają bezpieczeństwo
+25,3,3.txt,0,dodatkowych środków na inwestycję,investment_requirements,constrains,market_adaptation,0.88,0.92,Nakłady inwestycyjne ograniczają wdrożenie
+26,3,3.txt,0,dodatkowych pasów ruchu,infrastructure_optimization,enables,traffic_efficiency,0.83,0.88,Rozbudowa infrastruktury poprawia ruch
+27,3,3.txt,0,nie byłyby to tanie ubezpieczenia,insurance_protection,constrains,business_acceptance,0.74,0.81,Wysokie koszty ubezpieczeń ograniczają akceptację
+28,3,3.txt,0,bezpieczeństwa cybernetycznego,cybersecurity,stabilizes,consumer_safety,0.84,0.89,Cyberbezpieczeństwo wspiera bezpieczeństwo użytkowników
+29,3,3.txt,0,marketing nowych produktów transportowych - na dużą skalę,market_adaptation,amplifies,business_acceptance,0.76,0.83,Marketing zwiększa akceptację biznesową
+30,3,3.txt,0,opracowania etycznych standardów,ethical_governance,stabilizes,market_adaptation,0.82,0.87,Standardy etyczne wspierają wdrożenie
+31,3,3.txt,0,dobry stan dróg,road_infrastructure,conditions,autonomous_operation,0.93,0.96,Stan dróg warunkuje autonomię
+32,3,3.txt,0,"roboty drogowe jak są roboty, zwężki",signal_visibility,conditions,autonomous_operation,0.87,0.91,Czytelność oznaczeń jest konieczna
+33,3,3.txt,0,wydzielonych obszarów testowych,deployment_risk,reduces,market_adaptation,0.72,0.79,Bezpieczne testy zmniejszają ryzyko wdrożenia
+34,3,3.txt,0,miasto jest dość ruchliwe,urban_density,constrains,autonomous_operation,0.81,0.86,Duże natężenie ruchu utrudnia autonomię
+35,3,3.txt,0,zapewnienie czytelności sygnałów i znaków drogowych,signal_visibility,enables,autonomous_operation,0.91,0.94,Czytelne oznakowanie wspiera systemy autonomiczne
+36,3,3.txt,0,standaryzacja technologii komunikacyjnej,technology_standardization,enables,cross_border_interoperability,0.83,0.88,Standaryzacja poprawia interoperacyjność
+37,3,3.txt,0,poprawić łączność,supporting_infrastructure,enables,continuous_transport,0.79,0.85,Łączność wspiera ciągłość operacji
+38,3,3.txt,0,optymalizacja infrastruktury lokalnej,infrastructure_optimization,amplifies,traffic_efficiency,0.84,0.89,Lepsza infrastruktura poprawia ruch
+39,3,3.txt,0,inteligentnych systemach transportowych,supporting_infrastructure,enables,traffic_efficiency,0.88,0.92,ITS wspiera płynność ruchu
+40,3,3.txt,0,zwiększyć przepływy,traffic_efficiency,amplifies,operational_efficiency,0.87,0.91,Lepszy przepływ poprawia efektywność
+41,3,3.txt,0,żeby pociąć koszty,autonomous_operation,reduces,labor_costs,0.9,0.93,Autonomia obniża koszty pracy
+42,3,3.txt,0,brak kierowcy może być też przeszkodą w rozładunku,autonomous_operation,conflicts_with,operational_efficiency,0.68,0.76,Brak kierowcy utrudnia część operacji logistycznych
+43,3,3.txt,0,śledzenie trendu,Branża_forum,amplifies,market_adaptation,0.65,0.74,Monitorowanie trendów wspiera adaptację
+44,3,3.txt,0,żeby ludzie się do tego bardziej przekonali społecznie,social_acceptance,amplifies,market_adaptation,0.85,0.9,Akceptacja społeczna zwiększa adaptację rynku

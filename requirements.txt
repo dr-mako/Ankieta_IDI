@@ -1,0 +1,24 @@
+#python -m venv .venv
+#.venv\Scripts\activate
+#pip install -r requirements.txt
+
+numpy
+pandas
+#matplotlib
+#openpyxl
+#scikit-image
+#opencv-python
+#opencv-contrib-python
+#scipy
+scikit-learn
+#tqdm
+#seaborn
+#factor_analyzer
+#scikit_posthocs
+streamlit  
+network
+openpyxl
+chardet
+sentence-transformers
+torchvision
+chardet

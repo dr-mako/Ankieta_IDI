@@ -1,0 +1,36 @@
+﻿relation_id,respondent_id,transcript_file,segment_id,segment_text,source_construct,relation_type,target_construct,intensity,certainty,memo
+1,2,2.txt,0,"brak obowiązkowych przerw kierowcy, czyli transport może się odbywać w sposób ciągły chociażby",autonomous_operation,amplifies,continuous_transport,0.9,0.92,Pełna autonomia eliminuje ograniczenia czasu pracy kierowców
+2,2,2.txt,0,transport może się odbywać w sposób ciągły,continuous_transport,amplifies,operational_efficiency,0.88,0.9,Ciągłość operacji zwiększa efektywność transportu
+3,2,2.txt,0,"mniejsze spalanie, bardziej efektywne wykorzystanie paliwa",operational_efficiency,reduces,energy_reduction,0.84,0.88,Lepsze wykorzystanie paliwa obniża zużycie energii
+4,2,2.txt,0,mniejsze spalanie ... emisje są niższe,energy_reduction,reduces,environmental_impact,0.87,0.91,Niższe spalanie redukuje emisje
+5,2,2.txt,0,systemy autonomiczne ... zwiększały bezpieczeństwo,autonomous_operation,amplifies,consumer_safety,0.92,0.95,Autonomizacja poprawia bezpieczeństwo
+6,2,2.txt,0,mogą wpłynąć na ograniczenie tych kosztów,accident_reduction,reduces,insurance_protection,0.75,0.83,Mniejsza liczba wypadków ogranicza koszty
+7,2,2.txt,0,pojazd się komunikuje z infrastrukturą,supporting_infrastructure,enables,traffic_efficiency,0.85,0.89,Komunikacja V2I poprawia płynność ruchu
+8,2,2.txt,0,żeby nie musiały na przykład w korkach stać,traffic_efficiency,amplifies,operational_efficiency,0.8,0.86,Mniejsza kongestia poprawia efektywność
+9,2,2.txt,0,"algorytm będzie decydował o tym, kogo potrąci",ethical_governance,conflicts_with,autonomous_operation,0.94,0.96,Problemy etyczne ograniczają wdrożenie autonomii
+10,2,2.txt,0,te systemy nie rozwijają się szybciej,ethical_governance,constrains,technological_maturity,0.72,0.8,Etyka spowalnia rozwój wdrożeń
+11,2,2.txt,0,systemy wykrywania przeszkód,autonomous_operation,amplifies,accident_reduction,0.89,0.93,Wykrywanie przeszkód ogranicza ryzyko kolizji
+12,2,2.txt,0,obsługa tych systemów ... żeby to były tańsze,implementation_cost,constrains,market_adaptation,0.86,0.9,Wysokie koszty utrudniają adopcję
+13,2,2.txt,0,parkowanie pojazdów? - Zdecydowanie jest łatwiejsze,parking_efficiency,amplifies,mobility_improvement,0.7,0.82,Łatwiejsze parkowanie poprawia mobilność
+14,2,2.txt,0,może im pomóc,autonomous_operation,amplifies,mobility_improvement,0.73,0.84,Autonomia zwiększa mobilność osób z ograniczeniami
+15,2,2.txt,0,problemy kongestii pozostają,urban_density,constrains,traffic_efficiency,0.69,0.78,Duże natężenie ruchu ogranicza efektywność
+16,2,2.txt,0,możemy go wykorzystać nie na prowadzenie samochodu,autonomous_operation,amplifies,free_time,0.91,0.94,Autonomia uwalnia czas kierowcy/pasażera
+17,2,2.txt,0,problemem będzie prawo,regulatory_governance,constrains,autonomous_operation,0.93,0.95,Brak regulacji ogranicza wdrożenia
+18,2,2.txt,0,problem z infrastrukturą drogową,infrastructure_readiness,conditions,autonomous_operation,0.95,0.97,Autonomia wymaga odpowiedniej infrastruktury
+19,2,2.txt,0,"komunikację dwustronną pomiędzy pojazdem, a infrastrukturą",supporting_infrastructure,enables,autonomous_operation,0.94,0.96,Infrastruktura ITS umożliwia autonomię
+20,2,2.txt,0,większą przeszkodą będzie koszt nabycia,implementation_cost,constrains,business_acceptance,0.88,0.92,Wysokie koszty ograniczają akceptację
+21,2,2.txt,0,cyberbezpieczeństwo może też być dużym problemem,cybersecurity,conditions,autonomous_operation,0.91,0.94,Cyberbezpieczeństwo warunkuje autonomię
+22,2,2.txt,0,algorytmy są cyfrowe,data_management,depends_on,cybersecurity,0.77,0.84,Cyfrowe algorytmy wymagają zabezpieczeń
+23,2,2.txt,0,regulacje ... mogą być szansą na wykluczenie pewnych ryzyk,regulatory_governance,stabilizes,consumer_safety,0.82,0.88,Regulacje ograniczają ryzyka
+24,2,2.txt,0,Koszty związane z budową inteligentnej infrastruktury,investment_requirements,constrains,infrastructure_readiness,0.93,0.95,Nakłady finansowe ograniczają gotowość infrastruktury
+25,2,2.txt,0,"szkolenia dla osób, które zarządzają flotą",workforce_efficiency,enables,operational_efficiency,0.65,0.75,Kompetencje operatorów wspierają efektywność
+26,2,2.txt,0,"tłumaczenie, czynnik edukacyjny w stosunku do klientów",social_acceptance,amplifies,market_adaptation,0.7,0.79,Edukacja klientów wspiera adaptację rynku
+27,2,2.txt,0,system miał problem z wyznaczeniem pasa ruchu,signal_visibility,conditions,autonomous_operation,0.92,0.95,Czytelne oznaczenia są konieczne
+28,2,2.txt,0,nie będzie tej podstawowej infrastruktury dobrze oznaczonej,road_infrastructure,conditions,autonomous_operation,0.94,0.96,Stan infrastruktury warunkuje autonomię
+29,2,2.txt,0,inteligentne systemy transportowe ... będą ze sobą zintegrowane,infrastructure_optimization,enables,traffic_efficiency,0.89,0.91,Integracja ITS poprawia ruch
+30,2,2.txt,0,wydaje mi się bardzo ryzykowne,deployment_risk,suppresses,business_acceptance,0.78,0.85,Ryzyko testów ogranicza akceptację
+31,2,2.txt,0,może pomóc sektorowi TSL właśnie z tym problemem kierowców,autonomous_operation,reduces,labor_costs,0.9,0.93,Autonomia ogranicza zależność od kierowców
+32,2,2.txt,0,bardziej ekologicznie wykorzystują paliwa,operational_efficiency,reduces,environmental_impact,0.86,0.9,Efektywność ogranicza emisje
+33,2,2.txt,0,"może się pojawić problem, że ci kierowcy ... mogą stracić pracę",autonomous_operation,conflicts_with,economic_stability,0.74,0.82,Rynek pracy może zostać zaburzony
+34,2,2.txt,0,możemy zwiększyć efektywność tych operacji,continuous_transport,amplifies,operational_efficiency,0.89,0.92,Brak ograniczeń czasu pracy zwiększa efektywność
+35,2,2.txt,0,inwestycje w infrastrukturę,investment_requirements,enables,infrastructure_readiness,0.87,0.9,Finansowanie poprawia gotowość infrastruktury

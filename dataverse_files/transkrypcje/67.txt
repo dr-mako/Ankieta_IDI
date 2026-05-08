@@ -1,0 +1,224 @@
+Numer nagrania 67
+
+ 
+
+1.     Proszę wskazać czy, a jeśli tak, to jakie korzyści wynikające z użytkowania pojazdów autonomicznych z punktu widzenia przedsiębiorstw branży transportowej?
+
+ Przede wszystkim mniejsze zatrudnienie oraz większa wydajność pracy. 
+
+ 
+
+2.     Proszę o wskazanie, które z wymienionych teraz przeze mnie korzyści są z Pani/a punktu widzenia istotne i wskazanie dlaczego?
+
+- optymalizacja kosztów funkcjonowania przedsiębiorstw
+
+ Tak.
+
+- zmiana wydajności pracy
+
+ Tak.
+
+- zużycie energii (w tym paliw)
+
+ Niekoniecznie.
+
+- redukcja negatywnego wpływu pojazdów na klimat i środowisko (redukcja zanieczyszczeń, hałasu)
+
+ Niekoniecznie. 
+
+– poprawa społecznego wizerunku przedsiębiorstwa
+
+ Być może. 
+
+- skrócenie czasu przewozów poprzez lepsze wykorzystanie istniejącej infrastruktury drogowej (zmniejszenie kongestii)
+
+ Tak.
+
+- koszty wypadków
+
+ Tak.
+
+ 
+
+3.     Proszę wskazać czy, a jeśli tak, to jakie korzyści wynikające z użytkowania pojazdów autonomicznych z punktu widzenia uczestników ruchu drogowego? 
+
+ Przede wszystkim musiałaby być zmieniona infrastruktura, dostosowana by być musiała do możliwości takich pojazdów i wtedy, poprawa mobilności na drogach mogła by mieć miejsce oraz zmniejszenie wypadkowości.
+
+ 
+
+4.     Proszę o wskazanie, które z wymienionych teraz przeze mnie korzyści są z Pani/a punktu widzenia istotne i wskazanie dlaczego?
+
+- ochrona zdrowia i życia
+
+ Tak.
+
+- koszty serwisowania pojazdów
+
+ Tak.
+
+- zużycie energii (w tym paliw)
+
+ Nie wiem.
+
+- parkowanie pojazdów
+
+ Nie wiem.
+
+– poprawa mobilności
+
+ Tak.
+
+- lepsze wykorzystanie istniejącej infrastruktury drogowej (zmniejszenie kongestii)
+
+ Tak.
+
+- wolny czas
+
+ Nie wiem.
+
+- zmniejszenie negatywnego wpływu na klimat i środowisko (działania pro-ekologiczne)
+
+ Zależy od spalania.
+
+ 
+
+5.     Proszę wskazać czy, a jeśli tak, to jakie przeszkody dla rozwoju CAV w ciągu najbliższych lat dostrzega Pan/i? 
+
+ Przede wszystkim duże koszty.
+
+
+
+6.     Proszę o wskazanie, które z wymienionych teraz przeze mnie przeszkód są z Pani/a punktu widzenia istotne i wskazanie dlaczego?
+
+- zaufanie konsumentów do technologicznych „nowinek” (ostrożność wobec niesprawdzonych technologii)
+
+ Tak.
+
+- niedojrzałość technologii i przedłużający się proces ich testowania
+
+ Tak.
+
+- koszt wdrożenia rozwiązań CAV
+
+ Tak.
+
+- zapotrzebowanie na energię w związku z wykorzystaniem CAV
+
+ Tak.
+
+- zapewnienie wystarczającej ochrony wrażliwych danych (tajemnicy przedsiębiorstwa)
+
+ Nie wiem.
+
+- zapewnienie wystarczającego bezpieczeństwa cybernetycznego
+
+ Nie wiem.
+
+- ogólnodostępne środki wspierające badania i rozwój
+
+ Tak.
+
+- regulacje zapewniające odpowiedzialność producentów, dostawców oprogramowania, operatorów infrastruktury
+
+ Tak.
+
+- procedury regulacyjne (ingerencja organów państwa)
+
+ Tak.
+
+ 
+
+7.     Proszę wskazać czy, a jeśli tak, to jakie koszty i wyzwania związane z wprowadzaniem pojazdów i usług CAV w Polsce dostrzega Pan/i? 
+
+ Koszty oczywiście będą wyższe, a związane to będzie ze stworzeniem nowej infrastruktury.
+
+
+
+8.     Proszę o wskazanie, które z wymienionych teraz przeze mnie kosztów i wyzwań są z Pani/a punktu widzenia istotne i wskazanie dlaczego? 
+
+- konieczność pozyskania dodatkowych środków na inwestycje w technologię
+
+ Tak.
+
+- rozwój infrastruktury (np. dodatkowych pasów ruchu umożliwiających platooning)
+
+ Tak.
+
+- zapewnienie wystarczającej ochrony ubezpieczeniowej
+
+ Tak.
+
+- zapewnienie szkoleń dla kierowców, operatorów i zarządców ruchu
+
+ Tak.
+
+- zapewnienie bezpieczeństwa konsumentów (ochrony tajemnicy handlowej, ochrony danych osobowych, bezpieczeństwa cybernetycznego)
+
+ Tak.
+
+- marketing nowych produktów transportowych
+
+ Tak.
+
+- potrzeba opracowania etycznych standardów wdrażania technologii automatyzujących transport
+
+ Tak.
+
+
+
+9.     Proszę wskazać czy, a jeśli tak, to jakie wymagania dotyczące infrastruktury drogowej 
+w Polsce, które warunkują możliwość efektywnego testowania i wdrożenia technologii CAV dostrzega Pan/i? 
+
+ Nie wiem.
+
+
+
+10.  Proszę o wskazanie, które z wymienionych teraz przeze mnie wymagania są z Pani/a punktu widzenia istotne i wskazanie dlaczego? 
+
+- stworzenie wydzielonych obszarów testowych na wybranych odcinkach autostrad i dróg ekspresowych
+
+ Ważne.
+
+- stworzenie wydzielonych obszarów testowych w miastach
+
+ Też istotne. 
+
+- zapewnienie czytelności dla CAV znaków i sygnałów drogowych w warunkach lokalnych (standaryzacja)
+
+ Ważne.
+
+- standaryzacja technologii telekomunikacyjnych zapewniających łączność V2X (np. upowszechnienie technologii 5G)
+
+ Ważne.
+
+- optymalizacja infrastruktury lokalnej (skrzyżowań, krajobrazu ulic itp.)
+
+ Ważne.
+
+- zapewnienie infrastruktury wspomagającej usługi oparte na współpracujących inteligentnych systemach transportowych
+
+ Ważne.
+
+ 
+
+11.  Jak wdrożenie CAV zmieni sektor TSL? Jakie widzi Pan/i scenariusze/prognozy na przyszłość? 
+
+ Przede wszystkim trzeba będzie zwolnić pracowników. Więc nie wiem czy to jest takie dobre.
+
+ 
+
+12.  Jakie sformułował(a)by Pan/i rekomendacje odnośnie działań przyspieszających pełniejsze wykorzystanie CAV w modelach biznesowych firm polskich? 
+
+ Nie wiem tego.
+
+ 
+
+13.  Jakiego  wsparcia  oczekuje  Pan/i  od  administracji  publicznej  w  procesie  wdrażania  CAV  w przedsiębiorstwach?
+
+ Przede wszystkim dofinansowania.
+
+ 
+
+
+
+5

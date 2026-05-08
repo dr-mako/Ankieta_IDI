@@ -1,0 +1,224 @@
+Numer nagrania 13
+
+ 
+
+1.     Proszę wskazać czy, a jeśli tak, to jakie korzyści wynikające z użytkowania pojazdów autonomicznych z punktu widzenia przedsiębiorstw branży transportowej?
+
+ Na pewno korzyści byłyby wymierne. Z tego powodu, że branża boryka się aktualnie z personelem chociażby. Więc pojazd autonomiczny każdy przynajmniej ten element problemu z zatrudnianiem pracowników zostałby rozwiązany. 
+
+ 
+
+2.     Proszę o wskazanie, które z wymienionych teraz przeze mnie korzyści są z Pani/a punktu widzenia istotne i wskazanie dlaczego?
+
+- optymalizacja kosztów funkcjonowania przedsiębiorstw
+
+ Trudno powiedzieć, dlatego że nie wiemy, jakie byłyby koszty wprowadzenia takiego pojazdu. Czy one byłyby bardziej korzystne czy mniej od tego co jest w tej chwili. 
+
+- zmiana wydajności pracy
+
+ No pewnie tak, bo wyeliminowanie czynnika ludzkiego zazwyczaj wpływa na poprawę jakości i terminowości działań. 
+
+- zużycie energii (w tym paliw)
+
+ Nie sądzę, ale w jakimś marginalnym znaczeniu.
+
+- redukcja negatywnego wpływu pojazdów na klimat i środowisko (redukcja zanieczyszczeń, hałasu)
+
+ Jeśliby zapewniały taką redukcję same w sobie, to tak. Ale chyba takiej gwarancji wprost jeszcze nie ma. Chociaż jeśli są elektryczne, no to hałasu na pewno. 
+
+– poprawa społecznego wizerunku przedsiębiorstwa
+
+Nie sądzę. 
+
+- skrócenie czasu przewozów poprzez lepsze wykorzystanie istniejącej infrastruktury drogowej (zmniejszenie kongestii)
+
+Myślę, że to wymagałoby w ogóle zmiany infrastruktury, a samo wykorzystanie tego co jest w tej chwili, to tylko w niewielkim stopniu jest możliwe przy pojazdach autonomicznych. Infrastruktura jest zazwyczaj niedostosowana, jakość dróg, którą w tej chwili mamy nie jest sprzyjająca. Autostrad nie jest też na tyle dużo, żeby łączyły wszystkie punkty. Więc logistycznie tylko w jakimś wymiarze. Konieczna byłaby zmiana infrastruktury.  
+
+- koszty wypadków
+
+ Na pewno tak. 
+
+ 
+
+3.     Proszę wskazać czy, a jeśli tak, to jakie korzyści wynikające z użytkowania pojazdów autonomicznych z punktu widzenia uczestników ruchu drogowego? 
+
+ No miejmy nadzieję, że czynnik ludzki też tutaj podobnie byłby wyeliminowany. I mogłoby być to bardziej bezpieczne i przyjazne z punktu widzenia rygorów i przestrzegania przepisów prawa pojazdy. więc mogłyby pozytywnie wpłynąć na poprawę.
+
+ 
+
+4.     Proszę o wskazanie, które z wymienionych teraz przeze mnie korzyści są z Pani/a punktu widzenia istotne i wskazanie dlaczego?
+
+- ochrona zdrowia i życia
+
+ Nie. 
+
+- koszty serwisowania pojazdów
+
+Nie.
+
+- zużycie energii (w tym paliw)
+
+ Tak.
+
+- parkowanie pojazdów
+
+ Nie.
+
+– poprawa mobilności
+
+ Tak.
+
+- lepsze wykorzystanie istniejącej infrastruktury drogowej (zmniejszenie kongestii)
+
+ Nie.
+
+- wolny czas
+
+ Nie.
+
+- zmniejszenie negatywnego wpływu na klimat i środowisko (działania pro-ekologiczne)
+
+ Tak.
+
+ 
+
+5.     Proszę wskazać czy, a jeśli tak, to jakie przeszkody dla rozwoju CAV w ciągu najbliższych lat dostrzega Pan/i? 
+
+ No według mnie, to że wciąż jest niedostosowana infrastruktura, przynajmniej na terenie naszego kraju. Nie pozwoli to na szybszy rozwój, poza tym też trudno powiedzieć, jakie byłyby koszty wdrożenia na dużą skalę takich pojazdów. I czy branża transportowa i firmy byłoby stać na to, żeby wymienić cały tabor na taki właśnie, który byłby autonomiczny. I to wymaga jednak jakiegoś procesu dłuższego w czasie. I testowania na dużą skalę.
+
+
+
+6.     Proszę o wskazanie, które z wymienionych teraz przeze mnie przeszkód są z Pani/a punktu widzenia istotne i wskazanie dlaczego?
+
+- zaufanie konsumentów do technologicznych „nowinek” (ostrożność wobec niesprawdzonych technologii)
+
+ Tak. 
+
+- niedojrzałość technologii i przedłużający się proces ich testowania
+
+ No też tak. 
+
+- koszt wdrożenia rozwiązań CAV
+
+ No też. 
+
+- zapotrzebowanie na energię w związku z wykorzystaniem CAV
+
+ No myślę, że nie. 
+
+- zapewnienie wystarczającej ochrony wrażliwych danych (tajemnicy przedsiębiorstwa)
+
+ Nie, myślę, że nie.
+
+- zapewnienie wystarczającego bezpieczeństwa cybernetycznego
+
+ Też myślę, że nie. Że nie jest to przeszkoda. 
+
+- ogólnodostępne środki wspierające badania i rozwój
+
+ W jakimś sensie tak. 
+
+- regulacje zapewniające odpowiedzialność producentów, dostawców oprogramowania, operatorów infrastruktury
+
+ Tak, to bardzo. To zdecydowanie.  
+
+- procedury regulacyjne (ingerencja organów państwa)
+
+ Trudno powiedzieć jaka byłaby ta ingerencja Państwa. Natomiast zawsze należałoby się liczyć z tym, że to niekoniecznie musi być ułatwienie, tylko to może być utrudnienie. Więc trzeba byłoby najpierw poznać te plany co do tworzenia regulacji prawnych i do nich się już bezpośrednio odnosić. 
+
+ 
+
+7.     Proszę wskazać czy, a jeśli tak, to jakie koszty i wyzwania związane z wprowadzaniem pojazdów i usług CAV w Polsce dostrzega Pan/i? 
+
+Koszty związane z wprowadzeniem, tak jak mówię, sama wymiana taboru niezwykle kosztowna i niekoniecznie mogłaby przynosić wymierne wprost, w krótkim okresie czasu korzyści. a firmy są jednak nastawione na szybki zysk zazwyczaj. zwłaszcza w tej branży. Więc to wydaje mi się, że to też niekorzystne.
+
+
+
+8.     Proszę o wskazanie, które z wymienionych teraz przeze mnie kosztów i wyzwań są z Pani/a punktu widzenia istotne i wskazanie dlaczego? 
+
+- konieczność pozyskania dodatkowych środków na inwestycje w technologię
+
+ No tak, to na pewno. Żadne firmy nie mają nieograniczonych środków na inwestycje ogólnie. Nie sprzyja też jakby sama aktualnie sytuacja gospodarcza na świecie, nie jest zachętą dla inwestowania w cokolwiek. Tylko raczej każdy koncentruje się na stabilizacji biznesu. A niekoniecznie tylko na inwestycje, ponieważ jest niestabilny kurs waluty chociażby. Też to nie sprzyja, na pewno rosnące koszty kredytów nie sprzyjają inwestowaniu. Tylko raczej zachęcają do ostrożnego zachowania biznesowego.
+
+- rozwój infrastruktury (np. dodatkowych pasów ruchu umożliwiających platooning)
+
+ No tak, na pewno jest taka konieczność, żeby rzeczywiście tą infrastrukturę specjalnie przystosować i ją rozwinąć. To się wiążę z ogromnymi kosztami. I kto tak naprawdę miałby te koszty ponosić. Czy bezpośrednio te firmy miałyby mieć swój udział czy one by tylko mogły korzystać z czegoś co, zostałoby im udostępnione, po to żeby oni mogli się rozwijać w tej dziedzinie. No trudno powiedzieć, ale na pewno jest to też wyzwanie. 
+
+- zapewnienie wystarczającej ochrony ubezpieczeniowej
+
+ Branża ubezpieczeniowa dosyć dobrze się trzyma. Więc myślę, że stara się nadążać. Więc myślę, że to nie jest duże zagrożenie. Pewnie dostosowałby się do rynku dosyć szybko. 
+
+- zapewnienie szkoleń dla kierowców, operatorów i zarządców ruchu
+
+ Każda taka specjalistyczna praca wymaga szkolenia i gdzieś rozwoju pracowniczego, więc nie jest to nie jest to jakoś wyzwanie nie do przejścia. 
+
+- zapewnienie bezpieczeństwa konsumentów (ochrony tajemnicy handlowej, ochrony danych osobowych, bezpieczeństwa cybernetycznego)
+
+Tak jak we wszystkich innych dziedzinach, trzeba nad tym zapanować. No i tutaj w ślad za wprowadzeniem tego typu pojazdów i to należałoby dostosować. Nie jest to też coś, co miałoby być ogromnym wyzwaniem w obecnej dobie informatyzacji. 
+
+- marketing nowych produktów transportowych
+
+No na pewno jest niezbędny. Po to, żeby rozszerzać tak naprawdę wiedzę na temat produktu, który ma być przyszłościowy i ma rodzić poczucie bezpieczeństwa. I nieść korzyści ze sobą. Tak jak w każdej dziedzinie każda nowość bez marketingu się nie obędzie. Więc to wyzwanie też do przejścia. 
+
+- potrzeba opracowania etycznych standardów wdrażania technologii automatyzujących transport
+
+No etyczność, to też jest taki standard, który w tej chwili każda firma sobie ceni w każdej dziedzinie tak naprawdę kodeks etyczny jest standardem, który jest opracowany w każdej dziedzinie. Więc ten stanowiłby tylko dodatkowy element.
+
+
+
+9.     Proszę wskazać czy, a jeśli tak, to jakie wymagania dotyczące infrastruktury drogowej 
+w Polsce, które warunkują możliwość efektywnego testowania i wdrożenia technologii CAV dostrzega Pan/i? 
+
+No ta infrastruktura musiałaby być przede wszystkim bardzo, bardzo rozbudowana. Nawet na poziomie testów, dlatego że odcinkowe, wycinkowe, jakiekolwiek tworzenie dróg czy jakiś połączeń tak naprawdę nie powoduje samego rozwoju branży tylko, gdzieś ją zawęża. Więc prawda jest taka, że jest to ogromne wyzwanie, żeby taką infrastrukturę rozbudować, musiałaby to być ogromna sieć. Bez gwarancji tak naprawdę jak to zadziała. Mamy do czynienia z różnym ukształtowaniem terenu,  z zabudowaniami, natężeniem ruchu. Te wszystkie elementy wpływają wprost na to, że samo testowanie jest trudne i nie chodzi tylko o komplikacje na poziomie linii autostradowych pomiędzy dużymi ośrodkami miejskimi. Tylko tak na prawdę transport ma to do siebie, że musi jednak komunikować wiele różnych miejscowości, niekoniecznie właśnie tych połączonych taką pajęczą siecią. Więc też to ma znaczenie.
+
+
+
+10.  Proszę o wskazanie, które z wymienionych teraz przeze mnie wymagania są z Pani/a punktu widzenia istotne i wskazanie dlaczego? 
+
+- stworzenie wydzielonych obszarów testowych na wybranych odcinkach autostrad i dróg ekspresowych
+
+No nie, bo na wybranych nie. Raczej na dużych. Coś co się sprawdzi na niewielkim wycinku, na trasie od do, nie daje gwarancji sprawności całego systemu. 
+
+- stworzenie wydzielonych obszarów testowych w miastach
+
+ To koniecznie. 
+
+- zapewnienie czytelności dla CAV znaków i sygnałów drogowych w warunkach lokalnych (standaryzacja)
+
+Bezwzględnie.
+
+- standaryzacja technologii telekomunikacyjnych zapewniających łączność V2X (np. upowszechnienie technologii 5G)
+
+Może być przydatne. 
+
+- optymalizacja infrastruktury lokalnej (skrzyżowań, krajobrazu ulic itp.)
+
+konieczne. 
+
+- zapewnienie infrastruktury wspomagającej usługi oparte na współpracujących inteligentnych systemach transportowych
+
+Przydatne. 
+
+ 
+
+11.  Jak wdrożenie CAV zmieni sektor TSL? Jakie widzi Pan/i scenariusze/prognozy na przyszłość? 
+
+Jest to duża zmiana, więc pewnie tak naprawdę jeszcze usprawniłaby sam proces. Dlatego, że każda automatyzacja procesu jest korzystna. I tutaj na pewno też w tej dziedzinie transportowej też miałaby duże znaczenie. Jest wiele, można podać przykładów myślę tego, jak wprowadzenie automatycznych procesów wpłynęło pozytywnie na wydajność i tutaj też na pewno miałoby też miejsce. Może wyeliminowałoby się jakieś błędy, wynikające z tego, że dochodzi do wypadków. Samo to też nie zadziała w taki sposób, dlatego że też trzeba brać pod uwagę to, że dostarczenie od punktu A do punktu B to jest możliwe w przypadku automatyzacji. Natomiast jeśli w punkcie B już tej automatyzacji nie ma i taki pojazd musiałby czekać na rozładunki lub na jakieś inne rzeczy, więc na pewno branża też jest w jakimś stopniu i ten rozwój uzależniony i musi współpracować z innymi również przedsiębiorstwami i uczestnikami tego procesu.  
+
+ 
+
+12.  Jakie sformułował(a)by Pan/i rekomendacje odnośnie działań przyspieszających pełniejsze wykorzystanie CAV w modelach biznesowych firm polskich? 
+
+No trudno powiedzieć. To pewnie zależy od branży i biznesu. Ta, która jest związana wprost z przewozem towarów, to tak. To co już dotyczy przewozów towarów, ale związane też jest ze świadczeniem usług, to już mniej. Zatem zdecydowanie dla branż tych związanych, gdzie jest potrzeba koordynowania łańcucha dostaw, no to tak. To tam uważam, byłoby to niezwykle potrzebne i powinni się na tym skupić, te przedsiębiorstwa, żeby rzeczywiście zacząć korzystać z takich funkcji, jeśli takie już możliwości  w ogóle się pojawią na skalę taką, która nie będzie wybiorcza, tylko globalna. I faktycznie nie będzie dotyczyła tylko jakiegoś wycinka procesu, tylko wszystkiego, w czym można byłoby to wykorzystać.  
+
+ 
+
+13.  Jakiego  wsparcia  oczekuje  Pan/i  od  administracji  publicznej  w  procesie  wdrażania  CAV  w przedsiębiorstwach?
+
+Na pewno jakieś programy pomocowe, związane z pozyskiwaniem środków na inwestycje z tym związanych. Jakieś ulgi, może podatkowe, może jakieś innego typu apanaże dla firm, które zachęcałyby do tego, żeby skorzystać z tak nowatorskiego rozwiązania.
+
+ 
+
+
+
+1

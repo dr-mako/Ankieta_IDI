@@ -1,0 +1,231 @@
+Tak więc rozpoczynamy wywiad. Badanie jest prowadzone na zlecenie Ministerstwa Infrastruktury. Przeprowadzamy badania mające na celu poznanie opinii przedstawicieli firm transportowych, znajdujących się na terenie kraju, dotyczące użytkowania samochodów autonomicznych. Nazywanych też w uproszczeniu w uproszczeniu samochodami bez kierowcy. Wiedza ta jest niezbędna do opracowania wytycznych na szczeblu krajowym, dotyczących wdrażania tego rodzaju pojazdów. Zautomatyzowane pojazdy są obecnie intensywnie testowane na drogach publicznych przez konstruktorów samochodów, dostawców i firmy programistyczne. Takie pojazdy nadal posiadają urządzenia umożliwiające sterowanie, kierownicę, pedały, hamulce, sprzęgła, skrzynie biegów oraz wymagają wykwalifikowanego kierowcy, który monitoruje automatyczną jazdę i regularnie przejmuje kontrolę nad pojazdem. Niniejsze spotkanie dotyczy kolejnego poziomu automatyzacji, to znaczy samochodów autonomicznych, które pozwalają na niekontrolowanie jazdy przez kierowcę w dłuższych okresach lub nie wymagają kierowcy w ogóle. Pojazdy takie mają nie mieć urządzeń umożliwiających sterowanie. Na początku nie będą one jeździć po wszystkich drogach i nie we wszystkich sytuacjach drogowych będą się sprawdzać. Choć planuje się, że rozwój technologii sprawi, że w przyszłości zastąpią one pojazdy standardowe. Podczas naszej rozmowy chcielibyśmy dowiedzieć się, co przedstawiciele firm transportowych sądzą o pojazdach autonomicznych i czy byliby Państwo gotowi i chętni do ich zaakceptowania i użytkowania. 
+
+
+
+Dobrze, a więc możemy przejść do pierwszego pytania. Dotyczy ono korzyści wynikających z użytkowania pojazdów autonomicznych z punktu widzenia przedsiębiorstw branży transportowej. Proszę wskazać czy, a jeśli tak to jakie korzyści wynikające z użytkowania pojazdów autonomicznych z punktu widzenia przedsiębiorstw branży transportowej mógłby Pan wskazać?
+
+No na pewno takim korzyścią jest to, że małe my jesteśmy jakby wolni od czynnika ludzkiego, którym jest kierowca. Czyli taki Kierowca może się spóźnić, może być niedysponowany. Z reguły jeżeli tak ta technologia by była na tyle dopracowana, to często takie automaty są dużo bardziej niezawodne niż człowiek. Więc to widzę jako taką główną korzyść. Dodatkowo myślę, że w dzisiejszych czasach roboczogodzina stanowi duży procent kosztu takiego przedsiębiorstwa. Te koszty często są trudne do przewidzenia w przyszłości. Więc taki czynnik kosztowy również byłby bardziej przewidywalny w przyszłości. Tutaj tak naprawdę głównym kosztem byłaby obsługa pojazdu, czyli który dzisiaj też jest, mamy taki koszt. I obsługa paliwa czy tam energii, bo najczęściej takie pojazdy dzisiaj są produkowane z napędem elektrycznym. Więc te, mamy mniej czynników które wpływają na koszty i przez to łatwiej zaplanować długofalową strategię kosztową. Takie czynniki widzę. 
+
+
+
+Rozumiem, rozumiem. Prosiłbym teraz o wskazanie, które z wymienionych przeze mnie korzyści są z Pana punktu widzenia istotne i prosiłbym o wskazanie dlaczego. Pierwszy, optymalizacja kosztów funkcjonowania przedsiębiorstw, to już tutaj troszeczkę Pan o tym wspomniał, ale jeśli mógłby Pan coś jeszcze rozwinąć na ten temat?
+
+Myślę, że jednak przy dużych flotach, to co wcześniej wspomniałem może mieć znaczenie. Bo przy pewnie tych, gdy ktoś ma mniejszą flotę autobusów, no ten czynnik ludzki jest. Koszt tego no procentowo się tak składa tak samo, no ale kwotowo to naprawdę może już zrobić różnicę. Kiedy nie mamy tych kierowców lub tych kierowców jest znacznie mniej, którzy powiedzmy obsługują zdalnie taki pojazd. Więc myślę że to. 
+
+Rozumiem. Dobrze, kolejny zmiana wydajności pracy?
+
+To tak może to, że człowiek się może spóźnić, tak. Człowiek może być niedysponowany, człowiek może wziąć L4, człowiek może wziąć urlop na żądanie. Maszyna dobrze serwisowana, dobrej jakości jesteśmy w stanie przewidzieć kiedy maszyna będzie dostępna, tak. Oczywiście są zdarzenia losowe, ale te same zdarzenie losowe mogą wystąpić w przypadku kierowania przez kierowcę. Więc tutaj wydaje mi się, że ta przewidywalność jest większa. Przez co wydajność pracy też może być utrzymana wyższym poziomie. 
+
+Kolejny, zużycie energii, w tym paliw.
+
+No na pewno takie, każdy kierowca ma troszeczkę inny sposób jazdy, tak. I ciężko dopracować, idealnie dobraną skrzynię biegów czy inny system podawania paliwa, dodawania gazu, hamowania. Pojazd autonomicznym może zbierać wszystkie dane do swojej bazy i być to analizowane i przez to w przyszłości, może być ten program, który nim steruje, być optymalizowany na tyle, aby na przykład zużywał coraz mniej energii. Czy w miejscach, gdzie możemy troszeczkę zwolnić, gdzie warto zwolnić kosztem energii, jest to dużo łatwiejsze do wyłapania. Mając pojazd autonomiczny, gdy mamy bazy danych, które wszystkie paramenty są wczytywane do tej bazy. Można je przeanalizować i w ten sposób możemy zaoszczędzić między innymi właśnie energię. Co w przypadku kierowcy takiego zwykłego, no to nawet zbierając takie dane, no to ciężko przemówić kierowcy, nie dodawaj gazu w tym i w tym momencie, gdyż kierowcy czy najczęściej, branża turystyczna opiera się na doświadczonych kierowcach, którzy mają już swoje nawyki, których nie zmienisz. Albo które zmienić jest bardzo ciężko. A taki autonomiczny pojazd, no to program jest stosunkowo łatwo, dużo łatwiej zmienić. 
+
+Dobrze, kolejny to redukcja negatywnemu wpływu pojazdów na klimat i środowisko. Redukcja zanieczyszczeń, hałasu?
+
+Jak wspomniałem wcześniej zdecydowana większość pojazdów jest elektrycznych. Więc możemy, mamy pojazd w tym momencie, który się przemieszcza jest bezemisyjny lub bardzo niskoemisyjny, jeżeli to jest pojazd hybrydowy. No i też na pewno przerzuca się ten wyższy punkt na to. Mniejsze zużycie energii, to też większa dbałość o środowisko. Tak jak wcześniej wspominaliśmy, że mniejsze zużycie energii jest łatwiejsze przy pojazdach autonomicznych. 
+
+I to też jest według Pana istotne?
+
+Może nie jest o tyle istotny, to jest jakiś tam dodatkowa rzecz, która byłaby w stanie, jakby dodać dodatkowy plusik. Choć te wydaje mi się, że czynniki wcześniej omawiane są bardziej istotne. 
+
+Dobrze, czyli również, ale trochę mniej. Dobrze kolejne, poprawa społecznego wizerunku przedsiębiorstwa. Czy uważa Pan, że to jest istotny?
+
+Myślę, że w dzisiejszych czasach takie, to jest na pewno coś nowego. I dużo przykuwa, dużą uwagę. Więc taki wizerunek nowoczesnej firmy, która szuka innowacyjnych rozwiązań jest bardzo korzystny i może spowodować zdecydowaną poprawę wizerunku. 
+
+Dobrze, kolejny to skrócenie czasu przewozów, poprzez lepsze wykorzystanie istniejącej infrastruktury drogowej, zmniejszenie kongestii.
+
+No to tak wcześniej wspominałem, takie pojazdy często wybierają bazę danych ze swojej trasy i możemy optymalizować się w dowolny sposób, pożądany przez dane przedsiębiorstwo. Czy chce ona skrócić czas bo może idealnie zaprogramować na przykład względem świateł występującego w danej godzinie. Co przy człowieku byłoby nieco trudniejsze, niż przy maszynie. I tak no to to w zależności to co chce osiągnąć takie przedsiębiorstwo. 
+
+I jeszcze ostatni podpunkt, koszty wypadków. Czy to byłoby?
+
+To prawdopodobnie mógłby być wyższy koszt wypadku. Gdyż w zależności gdzie uderzymy takim pojazdem, gdy uderzymy w jednostkę centralną, cały komputer pokładowy i ulegnie on zniszczeniu i możemy stracić pewne dane nieodwracalnie. Więc koszt powypadkowy może okazać się niektórych przypadkach wyższe, niż w przypadku tradycyjnych pojazdów. Więc to raczej ciężko uznać, że to będzie. No nie, na ten moment nie wyobrażam sobie, że koszty napraw takich pojazdów będą niższe niż. 
+
+
+
+Tak, jeśli chodzi o koszty samej maszyny, jakby pojazdy. Dobrze, więc tutaj ten aspekt już mamy za sobą. Przejdźmy do kolejnego. Dotyczy on korzyści wynikających z użytkowania pojazdów autonomicznych, z punktu widzenia, tym razem, uczestników ruchu drogowego. I tutaj prosiłbym wskazać korzyści, które Pan dostrzega wynikające z użytkowania pojazdów autonomicznych. Właśnie z punktu widzenia uczestników ruchu drogowego.
+
+Więc na pewno taki pojazd autonomiczny odpowiednio zaprogramowany może prowadzić ruch bardziej płynnie. Przez co pasażer może czuć się bezpieczniej. Będzie mniej nagłych dohamowań, nagłych przyspieszeń. Więc taką tutaj korzyść widzę. Z tego co ja gdzieś tam słyszałem odnośnie naszych produktów, no to mimo wszystko, że testujemy pojazdy autonomiczne, to mimo wszystko w miejscu kierowcy jest wstawiony manekin, żeby pasażerowie czuli się bardziej komfortowo, niż gdy nie ma osoby za kółkiem. Więc tutaj na ten moment wydaje mi się, że głównie te, komfort jazdy mogły być podniesiony. 
+
+Rozumiem. Dobrze to teraz prosiłbym o wskazanie, które z wymienionych przeze mnie korzyści są dla Pana istotne, z Pana punktu widzenia. I prosiłbym o wskazanie dlaczego. Ochrona zdrowia i życia?
+
+Dobrze dopracowana maszyna popełnia mniej błędów niż nawet najlepiej wykwalifikowany człowiek. Więc, gdy ta technologia będzie we właściwy sposób rozwinięta, może przyczynić się do mniejszej ilości wypadków takich pojazdów. Więc przez to istotnie może wpłynąć na ten parametr. 
+
+Dobrze, koszty serwisowania takich pojazdów.
+
+Mogą być wyższe z uwagi na dzisiejsze przepisy homologacyjne, mimo że pojazd autonomiczny i tak musi być w pełni wyposażony tak jak pojazd nieautonomiczny. Czyli musi mieć kierownicę, musi mieć hamulce. W dowolnym momencie musi być możliwość przechwycenia przez kierowcę. Więc tutaj tak naprawdę nie jesteśmy w stanie obniżyć kosztów. Musi posiadać wszystkie lusterka. Cały musi być przygotowany, tak jak zwykły pojazd dzisiaj dopuszczony do ruchu. Gdyż nie uzyskałby homologacji. Więc ciężko tutaj uzyskać cięcie kosztów. 
+
+Dobrze, zużycie energii w tym paliw.
+
+No to już wcześniej wspominaliśmy o tym, że może być program zoptymalizowany pod kątem zużycia paliwa. 
+
+Czyli to mogłyby być mniejszy nawet, te koszty dla uczestnika ruchu?
+
+Acha dla uczestnika ruchu mogłoby się przełożyć na tańszy bilet, powiedzmy tak. I też tańszy bilet z tego względu, że nie ma kierowcy. Więc tutaj nie mamy podwójnych kosztów. Czyli lepiej, nie ma kierowcy więc bilet nie ma składowej pensji kierowcy. I może być niższy koszt samego przejazdu. 
+
+Tak, czyli to wynika, że to jest dość istotna rzecz. Kolejne, parkowanie pojazdów.
+
+To zdecydowanie. Nawet dzisiaj w samochodach osobowych, tych nowszych często są możliwe do zakupienia dodatkowe automaty to parkowania. W szczególności gdy mamy wyraźne linie zaznaczone, gdzie dużo łatwiej jest zadbać na przystanku o takie linie. Więc autobus idealnie za każdym razem, czy tam pojazd osobowy mógłby parkować co do centymetra właściwie w tym samym miejscu. 
+
+Dobrze, kolejny to poprawa mobilności. Czy takie pojazdy z punktu widzenia uczestnika drogowego mogłyby być bardziej mobilne jeszcze niż konwencjonalne, tradycyjne pojazdy?
+
+No może przez to, że takie pojazdy mogły być bardziej precyzyjne od człowieka. Mogłyby generować mniej korków. Dobrze zaprogramowana linia transportu publicznego oparta na samych autobusach czy pojazdach innego typu, autonomicznych byłaby na tyle zoptymalizowana, żeby nie generowała korków. I przez to cała mobilność w centrum miasta byłaby większa. 
+
+Dobrze, kolejny to lepsze wykorzystanie istniejącej infrastruktury drogowej.
+
+Tutaj ciężko mi się z tym zgodzić, gdyż cała infrastruktura musiałaby ulec zmianie. Dla takich pojazdów. Więc na ten moment infrastruktura drogowa jest jednym z większych problemów. Więc tu ciężko nazwać to korzyścią. Znaczy na ten moment jest to problem, ale w przyszłości musiało być to znacznie lepiej wykorzystane. 
+
+Dobrze, kolejne to wolny czas. Czy z punktu widzenia uczestnika drogowego, mogłoby to wpłynąć?
+
+Acha, czyli ma powiedzmy, moja limuzyna ma automatyczny system prowadzenia pojazdów. I wtedy jadąc samemu nie muszę kierować. No na pewno jest to korzyść. Możemy się skupić na czymś innym. Na relaksie, na obejrzeniu filmu, więc to dobrze. 
+
+Na pewno tego czasu jest więcej, prawda jeśli nie musimy skupiać się na prowadzeniu. I ostatnie już tutaj podpunkt z tej grupy pytań. Zmniejszenie negatywnego wpływu na klimat i środowisko, działania proekologiczne.
+
+Z punktu widzenia pasażera? 
+
+Tak, czy z punktu widzenia uczestnika uczestników ruchu drogowego, czyli zarówno tych którzy nim prowadzą, ale też tych którzy, powiedzmy pieszych i każdego kto.
+
+No z punktu widzenia pasażera to podobnie jak przedsiębiorstwa. Tak więc no optymalizacja to jakby zużycia paliwa w mojej limuzynie sterowanej autonomicznie doprowadziłaby do większej dbałości o środowiska.
+
+
+
+Dobrze no i teraz przechodzimy do kolejnej części. Związana jest ona z przeszkodami dla rozwoju samochodów autonomicznych w najbliższych latach. Proszę wskazać czy dostrzega Pan jakieś przeszkody dla rozwoju właśnie samochodów autonomicznych w ciągu najbliższych lat.
+
+No na pewno jeden z tych ważniejszych problemów są zmienne warunki atmosferyczne, takie jak opady śniegu. W krajach skandynawskich prowadzenia autobusów autonomicznych będzie znacznie cięższe niż w krajach, w których śniegu nie ma i w którym mamy bardziej przewidywalną pogodę. Mamy też np. bardzo  intensywny deszcz, również mógłby zatrzymać taki pojazd. Gdyż mógłby wpłynąć na odczyty z sensorów takiego pojazdu. Więc warunki atmosferyczne na dzień dzisiejszy mogą być problemem trudnym do rozwiązania w wielu klimatach. 
+
+Dobrze, coś jeszcze może Pan, czy przechodzimy?
+
+No na pewno złożoność systemu. Dopóki na drodze będą istniały inne pojazdy, prowadzone przez ludzi. To zawsze może być sytuacja trudniejsza do opanowania przez takie pojazdy. Gdyby załóżmy, wydaje mi się, że gdyby wszystkie pojazdy były autonomiczne, łatwiej byłoby takim pojazdem się między sobą komunikować i łatwiej byłoby dostosować prędkość poszczególnych pojazdów. A w przypadku gdy mamy cykl mieszany, że mamy część kierowców prawdziwych, żywych, no to tutaj też jest czynnik nieprzewidywalności takiej osoby, której no wiadomo, że program oprogramowanie składa się, odpowiada na pewne pytania, które programista zadał temu programowi. Jeżeli mam coś nieprzewidywalnego, no to od odpowiedź jest jakby, no nie jesteśmy w stanie zaprogramować systemu w taki sposób, żeby odpowiadał na wszystkie zdarzenia drogowe. 
+
+
+
+Rozumiem i to są takie dwie główne, które Pan dostrzega. To teraz prosiłbym o wskazanie tych, których ja wymienię. Czy są z Pana punktu widzenia istotne, jeśli tak to dlaczego. Pierwsza z nich to zaufanie konsumentów do technologicznych nowinek, ostrożność wobec niesprawdzonych technologii, czy to może być właśnie ważne, jeśli tak to dlaczego?
+
+To zależy od pokolenia. Myślę, że pokolenie młodych ludzi dzisiejszych zdecydowanie nie miałby z tym problemu. Żeby wsiąść do pojazdu autonomicznego. Na pewno, nie wiem, na dzisiejszy powiedzmy osoby 50+ mogłyby mieć z tym problem. Więc kwestia myślę, że do tego czasu, gdzieś myślę, że dzisiejsi 20-30 latkowie i młodsi nie mieliby z tym problemu. Więc dopóki, w międzyczasie równolegle ta technologia będzie się rozwijać, więc i do tego przywykniemy. Nie będzie według mnie w przyszłości istotny problem. Technologia nie rozwija się tak szybko, aby dotknęła powiedzmy dzisiejszych seniorów.
+
+Rozumiem. Kolejna, niedojrzałość technologii i przedłużający się proces jej testowania.
+
+Tak, no to jest jeden z kluczowych myślę problemów. Że ciężko tak naprawdę, to jest bardzo złożone zagadnienie. Dopóki poruszamy się powiedzmy po wyznaczonych torach czy po wyznaczonych trasach, jest to do opanowania. Gdy gdybyśmy chcieli poszerzyć naszą autonomiczność w miejsca, jakby pierwsze, nasz pojazd jest pierwszy raz na danej drodze. I to są z tego co kojarzę, najbardziej najtrudniejsze przypadki, więc tutaj jest duży problem. 
+
+Bardzo istotny problem, dobrze. Koszt wdrożenia takich rozwiązań.
+
+Tu głównym kosztem są testy i czas tych testów. Więc koszt jest bardzo duży. 
+
+I to też będzie istotne i może być to istotna przeszkoda. Dobrze zapotrzebowanie na energię w związku z wykorzystaniem tej technologii.
+
+Znaczy tak, jeżeli technologia byłaby dopracowana do wystarczająco w bezpieczny sposób, no to tutaj dążyło by to do zmniejszenia zużycia energii. Nie testujemy na dużych, nie testuje się dużych ilości w jednym czasie. Więc te energia jest promilem, więc tutaj nie widzę. Nie jest to istotne moim zdaniem. 
+
+Dobrze, kolejny to zapewnienie wystarczającej ochrony wrażliwych danych, czyli tajemnicy przedsiębiorstw. Czy tutaj ma to jakieś znaczenie, czy to mogłaby być przeszkoda?
+
+Myślę, że przedsiębiorstwa chwalą się raczej takimi rozwiązaniami. Oczywiście nie dzielą się swoim know how. Czyli jak to wykonują, więc tutaj też nie uważam, że jest to istotne. 
+
+Dobrze zapewnienie wystarczającego bezpieczeństwa cybernetyczne?
+
+No to jest też jest pewne, to myślę, że to jest dość istotne ryzyko. Bo no gdy ktoś niepowołany dobierze się do naszego oprogramowania, może w pewnym momencie zablokować cały ruch uliczny lub spowodować masę wypadków. A więc to jest ryzyko istotne. 
+
+Czyli to jest istotna przeszkoda. Kolejny, ogólnodostępne środki wspierające badania i rozwój.
+
+Myślę, że na dzień dzisiejszy nie jest to. Jest to oczywiście problem no, ale nie jest to na tyle istotny, gdy mamy odpowiedni projekt. Firma o odpowiedniej renomie jest w stanie uzyskać wystarczające środki lub wystarczające środki na dany etap swojej pracy. 
+
+Dobrze, kolejny regulacje zapewniające odpowiedzialność producentów, dostawców oprogramowania, operatorów infrastruktury, czyli wszelkie regulacje prawne i różne innego typu.
+
+No dziś myślę, że nie jest to idealnie dopracowane, tak jak wspomniałem wcześniej. Taki pojazd musi posiadać wszystkie cechy pojazdu zwykłego. Więc w przyszłości myślę, że to jest zbędne, jeżeli będziemy ufać takim pojazdom. Nie będziemy potrzebowali kierownicy tak, czy konsoli kierownicy. Więc te regulacje nie są, na dzień dzisiejszy nie jest to rozwiązane, ale wyobrażam sobie, że to nie jest istotny problem. Gdyby odpowiednia grupa osób usiadła na takimi regulacjami byłaby w stanie dopracować w odpowiedni sposób. 
+
+Gdyby to już wszystko było gotowe, to wtedy by mogły one powstać. Dobrze kolejne to procedury regulacyjne. Ingerencja organów państwa. Czy to by mogła być przeszkoda?
+
+Nie do końca wiem jak by Państwo mogłoby na to wpłynąć. Ani tak ani nie. 
+
+
+
+Dobrze, to teraz przechodzimy do kolejnego aspektu, związanego z kosztami i wyzwaniami, związanymi z wprowadzeniem pojazdów autonomicznych w Polsce. Proszę wskazać czy, a jeśli tak to jakie koszty i wyzwania związane w wprowadzeniem pojazdów autonomicznych w Polsce Pan dostrzega?
+
+Na pewno dużym kosztem byłoby przygotowanie infrastruktury dla pojazdów autonomicznych. Najlepiej gdyby trasa takiego pojazdy była odpowiednio wcześniej przygotowana. Czyli chociażby miała bardzo wyraźne linie, które byłyby często odświeżane. Możliwe, że wymagałoby też również umieszczenie na drodze dodatkowych sensorów, dodatkowych czujników, które by ułatwiły takiemu pojazdowi przemieszczanie się. I o ile mówimy o powiedzmy pojazdach transportu publicznego, no to to jest do osiągnięcia, ale bo transport publiczny porusza się w określonych liniach. Natomiast gdyśmy chcieli wprowadzić to do pojazdów, powiedzmy prywatnych, no to koszty przygotowania infrastruktury na wszystkich drogach mogłyby być nie do przeskoczenia. 
+
+
+
+Dobrze to teraz prosiłbym o wskazanie, które z wymienionych przeze mnie kosztów i wyzwań są z Pana punktu widzenia istotne i o wskazanie dlaczego. Pierwszy z nich to konieczność pozyskania dodatkowych środków na inwestycje w technologie. Czy to istotny koszt?
+
+Myślę że temat jest na tyle, jest to istotny koszt, ale temat jest na tyle atrakcyjny, że na sam rozwój technologii środki no i z przedsiębiorstwa danego, który się tym zajmuje jest w stanie pozyskać. 
+
+Dobrze, kolejny to rozwój infrastruktury. Na przykład dodatkowych pasów ruchu, umożliwiających.
+
+Tu jest zdecydowanie problem, bo tak naprawdę to już zależy od danego miasta czy województwa czy państwa. Więc tutaj taj jak wspomniałem wcześniej, to też również uważam, że tutaj jest to jeden z głównych kosztów takiego skoku rozwojowego. 
+
+Dobrze kolejny, to zapewnienie wystarczającej ochrony ubezpieczeniowej Czy to będzie istotny koszt?
+
+Myślę, że oczywiście na początku te koszty ubezpieczenia byłyby wysokie. Ale z czasem, gdy technologie były na tyle dopracowane. Założenie jest takie, że ta technologia będzie podobała mniej wypadków. Jeżeli mamy mniej wypadków, no to prawdopodobieństwo danego zdarzenia jest niższe, przez to koszt ubezpieczenia też będzie niższy, gdyż opiera się ono na prawdopodobieństwo wystąpienia danego przypadku. Początkowo tak, ale docelowo myślę że nie. 
+
+Rozumiem, kolejny zapewnienie szkoleń dla kierowców operatorów i zarządców całego.
+
+Myślę, że całe sterowanie takiego systemu jest na tyle, dzisiejsze, jakby rozwój IT i różnego rodzaju oprogramowania powoduje to, że mamy aplikacje bardzo intuicyjne, bardzo łatwe w obsłudze. Więc tutaj ten koszt, pewnie byłby procentowo niski względem problemów wyżej wymienionych. 
+
+Dobrze zapewnienie bezpieczeństwa konsumentów, ochrona tajemnicy handlowej, ochrona danych osobowych, bezpieczeństwa cybernetycznego.
+
+Ani tak, ani nie. 
+
+Dobrze rozumiem, czyli tutaj przejdziemy do kolejnego. Marketing nowych produktów transportowych. Czy to mógłby być duży koszt?
+
+Myślę, że nie. Z tego względu, że tak jak wspomniałem ten temat jest bardzo atrakcyjny i bardzo przykuwające uwagę. Nawet małe jakieś projekty często są pokazywane w ogólnokrajowych mediach. Tak więc tak naprawdę koszt przynajmniej w początkowym etapie, ten koszt marketingu nie byłby według mnie taki duży. Oczywiście gdy konkurencja byłaby już duża, no to pewnie koszty marketingu by rosły. Ale na ten moment koszt marketingu jest stosunkowo niski moim zdaniem. 
+
+Dobrze i ostatni. Potrzeba opracowania etycznych standardów wdrażania technologii automatyzujących transport. Czy jakieś to mogą być koszty Pana zdaniem istotne?
+
+Jeszcze raz? 
+
+Potrzeba opracowania etycznych standardów wdrażania technologii automatyzujących transport.
+
+Wydaje mi się, że sama idea jest etyczna i nie widzę tutaj w niej nic nieetycznego, więc nie byłoby problemu raczej. Nie uważam. 
+
+Dobrze i kolejny dział. Wymagania dotyczące infrastruktury drogowej w Polsce, które warunkują możliwość efektywnego testowania i wdrażania technologii samochodów autonomicznych. Prosiłbym wskazać jakie wymagania dotyczące infrastruktury drogowej w Polsce, które warunkują możliwość aktywnego testowania i wdrażania technologii samochodów autonomicznych Pan dostrzega?
+
+Wydaje mi się, że to niespecjalnie się różni Polska w stosunku do innych krajów. W Polsce mamy wiele dobrej jakości dróg szczególnie mamy wiele nowych dróg, więc ta infrastruktura bazowa, moim zdaniem, w Polsce nie jest najgorsza. Oczywiście wymagałaby ona pewnych dopracowań, ale jako start nie uważam, że Polska byłaby złym miejscem do testowania takich rozwiązań. 
+
+Dobrze i teraz poproszę o wskazanie spośród tych, które ja wymienię wymagań, czy one są istotne z Pana punktu widzenia i jeśli tak, to dlaczego. Stworzenie wydzielonych obszarów testowych na wybranych odcinkach autostrad i dróg ekspresowych.
+
+Dzisiaj mamy w większych miastach na przykład buspasy, więc w przyszłości taki buspas mógłby być przekształcony w autonomiczny, tras autonomicznych pojazdów. W większych miastach pewnie byłoby to łatwiejsze do prowadzenia niż w mniejszych aglomeracjach. 
+
+Ale tu bardziej tutaj chodzi o autostrady i drogi ekspresowe.
+
+No tutaj na dzień dzisiejszy nie mamy takich rozwiązań, więc pewnie mógłby być to problem. Wiele autostrad musiałoby być gruntownie przebudowanych, jeżeli byśmy szli w drogę specjalnych tras, wydzielonych pasów dla takich pojazdów. 
+
+Dobrze no i kolejny, to jest właśnie ten o którym Pan wspomniał, czyli stworzenie wydzielonych obszarów testowych w miastach. Więc jeśli mógłby tak Pan pokrótce jeszcze to powtórzyć?
+
+Więc w miastach jest o tyle łatwiej, gdyż w dużych miastach wojewódzkich często, gdzie komunikacja miejska jest rozwinięta, jest wiele buspasów, które mogłyby być w prosty, może nie w prosty, ale w dużo łatwiejszy sposób przekształcone w obszary testowania pojazdów autonomicznych. Na przykład w nocy, kiedy autobusy miejskie nie jeżdżą lub jeżdżą znacznie mniej. 
+
+Dobrze, kolejne to zapewnienie czytelności dla CAV znaków i sygnałów drogowych w warunkach lokalnych, standaryzacja tych wszystkich znaków i właśnie sygnałów. Czy to mogłoby być? Czy to jest duże wymaganie?
+
+Nie, myślę że nie, bo tak naprawdę to jest kwestia oprogramowania, aby czytało dane znaki w odpowiedni sposób. Więc tak naprawdę czy mamy znaki takie czy takie, oczywiście jeżeli pojazdy były międzypaństwowy, no to pewnie wymagałoby to jakiegoś większego oprogramowanie. Ale jeżeli byłoby od początku wiadomo, że testujemy pojazd dany w Polsce, to nie uważam, że jest to istotny czynnik. 
+
+Kolejny to standaryzacja technologii telekomunikacyjnych, zapewniających łączność V2X, na przykład upowszechnienie technologii 5G.
+
+Z tego co wiem, polska dąży do rozwoju technologii 5G. Wydaje mi się, że ogólnie technologia internetowa mobilna w Polsce jest dobrej jakości, względem na przykład państw typu Grecja, Włochy, więc nie uważam że Polska byłaby złym miejscem do testowanie takich rozwiązań. 
+
+Czyli to raczej wymogi by były w tej kwestii spełnione.
+
+Do osiągnięcia. 
+
+Dobrze, kolejny to optymalizacja infrastruktury lokalnej, czyli skrzyżowań, krajobrazu ulic i tym podobnych. Czy to jest jakieś wymaganie dotyczące infrastruktury drogowej istotne z Pana punktu widzenia?
+
+Na pewno dobrze by było, gdyby dane skrzyżowania były ustandaryzowane, tak żeby łatwiej było by zaprogramować dane środowisko. Więc mógłby być to pewien koszt. Choć w Polsce wydaje mi się, że nie ma jakby większych różnic, ciężko mi powiedzieć tak naprawdę. Nie widzę jakiegoś zagrożenia, które by mi przyszło tak szybko na myśl. 
+
+Raczej by to wymaganie z czasem dało się spiąć. Dobrze i ostatni, zapewnienie infrastruktury wspomagającej usługi oparte na współpracujących inteligentnych systemach transportowych. Czyli jakieś systemy infrastruktury, które mogłyby wspomagać te wszystkie systemy.
+
+Myślę, że takiej infrastruktury nie ma specjalnie dużo gdzie indziej na świecie, więc tak naprawdę ten koszt w Polsce czy za granicą byłby podobny. Więc to jest spore wymaganie, ale nie jest to jakby, że Polska jest, trudniej byłoby to prowadzić niż gdziekolwiek indziej. Też gdziekolwiek indziej takiej infrastruktury za dużo nie ma.
+
+ 
+
+I to już ostatni aspekt, czyli przyszłość i uwarunkowania technologii pojazdów autonomicznych. Jakie wdrożenie tej technologii zmieni sektor transportowy, logistyczny spedycyjny? Jakie widzi Pan scenariusze, prognozy na przyszłość?
+
+Na pewno jednym z scenariuszy pozytywnych byłaby większa optymalizacja ruchu drogowego i transportowego. Mając same pojazdy autonomiczne moglibyśmy w lepszy sposób przy użyciu odpowiedniej analizy baz danych kontrolować przewóz towarów. Więc tutaj moglibyśmy przez to zoptymalizować go znacznie w lepszy sposób, niż gdy mamy czynnik ludzki, jak kierowcy. 
+
+
+
+Dobrze i jakie sformułowałby Pan rekomendacje odnośnie działań przyspieszających pełniejsze wykorzystanie pojazdów autonomicznych w modelach biznesowych polskich firm? Czy miałby pan jakieś pomysły, odnośnie przyspieszenia właśnie działań przyspieszających pełniejsze wykorzystanie pojazdów autonomicznych?
+
+Tutaj myślę, że kluczowe jest to, aby powiedzmy jako cel posiadania pojazdów autonomicznych miał na przykład dany ośrodek miejski. Więc taki ośrodek miejski musiałby wspierać i współpracować dane przedsiębiorstwa do wprowadzenia takiej technologii. Więc tutaj jest na pewno dużo pracy i pewnie współpraca z danym ośrodkiem miejskim. 
+
+
+
+Dobrze i teraz już przechodzimy do ostatniego pytania. Jakie wsparcie oczekuje Pan od administracji publicznej w procesie wdrażania pojazdów autonomicznych w przedsiębiorstwach? Jakiego by Pan wsparcia oczekiwał?
+
+W samych przedsiębiorstwach no to na pewno, ciężko mi odpowiedzieć może na to pytanie. Ale wyobrażam sobie, że podobnie w pytaniu wcześniejszym, czyli jeżeli dane miasto wyraziłoby chęć wprowadzenie takiej technologii, ułatwiłoby wyznaczenie, w prosty szybki sposób wyznaczałyby obszary do testu. Wyznaczałoby pierwsze uruchomione trasy. Więc taka współpraca danego ośrodka miejskiego z danym przedsiębiorstwem jest bardzo istotna. Która by prowadziła do szybkich zgód na dane testy i szybkich zgód na zmiany infrastruktury danej trasy. 
+
+12

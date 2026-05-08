@@ -1,0 +1,187 @@
+Numer nagrania 5
+
+ 
+
+Proszę wskazać czy, a jeśli tak, to jakie korzyści wynikające z użytkowania pojazdów autonomicznych z punktu widzenia przedsiębiorstw branży transportowej?
+
+Po pierwsze są to korzyści ekonomiczne, ponieważ jest pewnego rodzaju paradoks, ponieważ jest to na pewno sytuacja kiedy nie mamy do czynienia z osobą fizyczną wykonującą prace dotyczącą prowadzenia pojazdu, w tym przypadku kolejowego, szynowego, tramwajowego, więc odchodzi nam człowiek, któremu musimy zapłacić pensje, oczywiście bezwzględnie powinien być człowiek, który w jakiś sposób kontroluje i nadzoruje, może koordynuje również pracę tych autonomicznych pojazdów, ale czysto teoretycznie wyobraźmy sobie, że przewoźnik kolejowy i to nawet nie teoretycznie, a praktycznie, przewoźnik kolejowy ma powiedzmy 30 pojazdów za pomocą, których wykonuje pracę pociągową i te 30 pojazdów musi być obsłużone w dobie przez 60 pracowników. Zakładamy, że pojazd pracuje 24 godziny na dobę i jego dostępność eksploatacyjna, techniczna, handlowa jest na bardzo wysokim poziomie, pojazd jest niezawodny, a więc może pracować 24 godziny na dobę i teoretycznie gdyby trzeba było zatrudnić maszynistów mając 30 pojazdów, musimy ich mieć 60 w dobie. W sytuacji, w której mamy do czynienia z pojazdami autonomicznymi, ekonomia wprost mówi, że my tych 60 ludzi nie potrzebujemy, potrzebujemy powiedzmy 2 koordynatorów, którzy będą kontrolowali parametry pracy tych pojazdów. Ja osobiście jestem absolutnym przeciwnikiem pojazdów autonomicznych. Oczywiście potrafię wymienić parametry, jak na przykład w postaci pieniądza, ekonomii, wartości takich ekonomicznych, ja te wartości znam, nawet jestem w stanie je oszacować podstawiając pewne dane, pewne parametry ekonomiczne do takiego równania i to się bardzo ładnie kalkuluje. Tylko dochodzimy do takiego pytania, co z ludźmi? Dochodzi do sytuacji, w której następuje dehumanizacja transportu i to ma swoje plusy oczywiście, ponieważ maszyna myli się rzadziej, człowiek jest bardziej zawodny, ale tutaj wkraczamy w taki obszar filozofii trochę, filozofii biznesu. Dzisiaj i teraz odnosimy się do twardych danych, do ekonomii, do ekonometrii, do statystyki, do matematyki i do finansów, Dzisiaj w produkcie krajowym brutto każdego Państwa w blisko 70% jest uzależnione od transportu, wszystko co się dzieje, czy to jest dowiezienie ucznia do szkoły, czy to jest transport interesanta do ośrodka administracyjnego, czy to jest transport towarów masowy czy to jest transport towarów indywidualny i wszystkie zawody z tym powiązane, samochody oponiarstwo, stacje benzynowe, zasilanie, wszędzie tam pracują ludzie, a więc 70% PKB każdego standardowego, przeciętnego Państwa to jest transport i teraz my z tego transportu i tu nie umiem oszacować, bo tej wielkości nigdy nie analizowałem, nie badałem, ale załóżmy, że 20% w tych 70% to jest zatrudnienie ludzi, którzy wykonują pracę tramwajarza, kierowcę autobusu MPK, maszynistę pojazdu trakcyjnego czy pojazdów jakiś innych, które muszą być kierowane przez osobę fizyczną, to może być jakieś 20%. Innymi słowem, my te 20% pozbawiamy, dążąc do pewnego ideału, pewnej utopii, więc my ich po prostu zwalniamy, my ich nie potrzebujemy. Na pewno korzyścią jest podniesienie tych parametrów stopnia wykorzystania i gotowości do pracy pojazdów autonomicznych, bo kierowca musi mieć odpoczynek, bo kierowca, czy osoba prowadząca może mieć słabość, może spożyć alkohol, oczywiście dzisiaj się eliminuje tego typu zagrożenia, ale co do zasady, jeżeli my dzisiaj mamy parametr dostępności eksploatacyjnej pojazdu na poziomie uśrednionym około 80%, to w sytuacji, w której mamy do czynienia z pojazdami autonomicznymi, to ten procent dostępności będzie na poziomie 95%, może 97%, dlatego nie 100%, ponieważ one też muszą być naprawiane, one podlegają określonym przeglądom, serwisom, awariom etc. Natomiast powiedzmy, że jest to poziom 95%. To jest na pewno z punktu ekonomii, efekt pożądany.
+
+ 
+
+Proszę o wskazanie, które z wymienionych teraz przeze mnie korzyści są z Pani/a punktu widzenia istotne i wskazanie dlaczego?
+
+- optymalizacja kosztów funkcjonowania przedsiębiorstw, Tutaj już Pan bardzo szeroko, o tym opowiedział
+
+- zmiana wydajności pracy, Tutaj też już Pan o tym powiedział.
+
+- zużycie energii (w tym paliw)
+
+Przykład Tesli pokazuje, że nie do końca się to sprawdza. Teoretycznie można przyjąć, ale tu muszą być niesamowicie dopracowane algorytmy i tu dochodzimy do takiej sfery przewidywalności, są na drodze wydarzenia, których absolutnie w ruchu, w eksploatacji, w operacjach kiedy się je realizuje, wydarzenia, których fizycznie nie ma możliwości przewidzieć. Tych zmiennych, które algorytm potrzebuje, aby płynnie przewidzieć ruch, aby ekonomicznie się to przekładało jest tak wiele, że to jest utopia.
+
+ 
+
+- redukcja negatywnego wpływu pojazdów na klimat i środowisko (redukcja zanieczyszczeń, hałasu)
+
+Dotyka Pani niesamowicie trudnego tematu, ponieważ dla mnie to jest ogromna obłuda, utopia, to co się mówi. Mamy pojazdy, które są zasilane zwykłym silnikiem spalinowym, w tej sytuacji emisja, czy też zanieczyszczenie środowiska praktycznie niewiele się zmienia. Z kolei twierdzenie, że mamy pojazdy autonomiczne, które zasilane są energią elektryczną, również nieprawdziwym stwierdzeniem jest, że spada nam zanieczyszczenie środowiska, ponieważ ta energia elektryczna, którą trzeba zgromadzić w samochodzie, w lokomotywie, czy w traktorze, czy w jakim kol wiek pojeździe, ta energia musi być gdzieś wyprodukowana i tam powstaje emisja związków siarki, azotu, tlenków etc. Jeżeli mielibyśmy elektrownie atomowe, ona jest na tyle bezpieczne, że wtedy widziałbym pewne korzyści, ale to jest źródło energie, ale jeżeli chodzi o produkcje pojazdów autonomicznych, ich eksploatacje, które są zasilane energią elektryczną z kopalin, to jest jeszcze jedno niebezpieczeństwo, w momencie gdy na przykład taki pojazd Tesli ulegnie wypadkowi, ze auto jest do kasacji, to tam są baterie, tam jest lit, dochodzi do wycieku litu z baterii, robi się ogromny problem dla środowiska, ponieważ jest on szkodliwy, a co dopiero jak jeszcze dojdzie do zapłonu. Strażacy, jadący do takiego wypadku muszą zabrać ze sobą specjalny kontener, w którym następnie muszą zalać w nim ten pojazd specjalnym roztworem, aby unieszkodliwić ten lit, co podnosi horrendalnie koszty  całej operacji, a potem trzeba utylizować ten środek co powstanie w wyniku wytrącania się litu w procesie neutralizacji tej baterii, tego samochodu, to jest znowu kosztowne.
+
+ 
+
+– poprawa społecznego wizerunku przedsiębiorstwa
+
+Bez wątpienia tak, to wynika z tego, że został bardzo dobrze przygotowany grunt, ludzie zostali tak trochę "urobieni" przez media, że jeżeli przedsiębiorstwo zastosuje pojazd elektryczny czy pojazd autonomiczny, wodorowy, to będzie lepiej postrzegane.
+
+ 
+
+- skrócenie czasu przewozów poprzez lepsze wykorzystanie istniejącej infrastruktury drogowej (zmniejszenie kongestii)
+
+Kongestia transportowa była, jest i będzie, warunkiem do tego, aby ją zmniejszyć jest zdecydowane zwiększenie przejazdów tras granicznych, czyli tranzytu, gdzie powinien być wręcz przymus przewozu za pomocą transportu kolejowego, ciężarówek, które jadą np. na trasie Białoruś, do Polski, dalej do Niemiec czy gdzie kol wiek, to jeżeli do tego by dosżło to wtedy jak najbardziej tak, wtedy załóżmy, że mamy pociągi autonomiczne, bo jeżeli ten projekt pojazdów autonomicznych gdzieś się powinien rozpocząć, to powinny być to właśnie koleje, ponieważ na kolei lokomotywa nie skręci, ona jest sztywna, ona jest przypisana do toru, samochód może uderzyć w budynek, może się zdarzyć sto różnych przypadków, które spowodują, że płynny ruch zostanie zakłócony. W przypadku pociągów dużo łatwiej wprowadzić pojazdy autonomiczne. Zjawisko kongestii zniknie w momencie, gdy pojazdy kolejowe wezmą na swoje wagony ciężarówki, który kursują w tranzycie, a to spowoduje zmniejszenie kongestii drogowej. Tu widzę olbrzymią szansę, to jest korzyść ewidentna.
+
+ 
+
+- koszty wypadków
+
+Zdecydowanie, gdyby doszło do sytuacji, a pojazdy autonomiczne będą zasilane czy to energią elektryczną, wodorową, czy to gazową, to wydaje mi się, że koszt wypadku będzie większy, ryzyko dla środowiska będzie większe.
+
+ 
+
+Proszę wskazać czy, a jeśli tak, to jakie korzyści wynikające z użytkowania pojazdów autonomicznych z punktu widzenia uczestników ruchu drogowego?
+
+Na pewno jest to komfort podróżowania, czyli możliwość wyłączenia koncentracji, uwagi, jednak jadąc samochodem, tramwajem czy czym kol wiek, to trzeba być mocno skoncentrowanym, ponieważ jesteśmy uczestnikiem ruchu, który jest pełny czynników, które wpływają pozytywnie lub negatywnie na nasze reakcje, kiedy prowadzimy ten pojazd, więc pojazd autonomiczny daje nam ten komfort, że robi to za nas komputer.
+
+
+
+Proszę o wskazanie, które z wymienionych teraz przeze mnie korzyści są z Pani/a punktu widzenia istotne i wskazanie dlaczego?
+
+- ochrona zdrowia i życia
+
+Wszystko zależy od innych uczestników ruchu, nie tylko od nas samych. Gdyby np. 50% pojazdów, które się poruszają było pojazdami autonomicznymi, to wydaje mi się, że ten poziom bezpieczeństwa byłby większy, ale system kontroli ruchu musiałby być doprowadzony do perfekcji, czyli dyscyplina pozostałych uczestników musiałaby być większa.
+
+- koszty serwisowania pojazdów
+
+Jeżeli tak jak przyjęliśmy dajmy na to mamy 50% pojazdów autonomicznych, czyli dochodzi do mniejszej ilości stłuczek, kolizji, to spowoduje znaczący rażący spadek kosztów serwisu moim zdaniem.
+
+- zużycie energii (w tym paliw), Tutaj już o tym rozmawialiśmy w poprzednim punkcie, więc nie będę już tego od Pana wyciągać.
+
+– poprawa mobilności
+
+Myślę, że tak, bo będzie duża liczba biernych uczestników transportu, mniej będzie indywidualnych  użytkowników, biernych w tym sensie, że nie mają swoich samochodów, ale wsiadają do pojazdów komunikacji miejskiej prowadzonej autonomicznie.
+
+- lepsze wykorzystanie istniejącej infrastruktury drogowej (zmniejszenie kongestii)
+
+Tutaj, niestety, ale musimy przyjąć trochę taktykę gdybania, ale przyjmując, że mamy założenie tego progu 50% udziału pojazdów autonomicznych, to w tym momencie płynność ruchu jest bez wątpienia lepsza. Kierowca ma wiele czynników, które go pobudzają, a autopilot ma jeden, na który czeka "Zielone światło", więc on ruszy bardzo płynnie.
+
+- parkowanie pojazdów
+
+Myślę sobie, że podobnie jak z tym ruszaniem, to parkowanie odbywałoby się podobnie, jednak te czujniki są na dobrych parametrach oparte, to będzie to korzyść.
+
+- wolny czas
+
+To też jest pewnego rodzaju utopia. 30 lat temu nie mieliśmy telefonów komórkowych, z minuty na minutę uzyskać połączenie na drugi koniec świata i mieliśmy wtedy znaczenie więcej czasu dla naszych znajomych, dla samych siebie. Dzisiaj mamy zdobycze techniki, pralki automatyczne, cuda na kiju i mamy zdecydowanie mniej czasu. To jest utopia. To nie jest wolny czas, to jest niewolnictwo. To jest tendencyjne pytanie, bo w pierwszej kolejności ktoś pomyśli, że pewnie tak, bo maszyna to zrobi za mnie, ale proszę zaznaczyć tak, bo to jest założenie, które oczywiście ja rozumiem. Zaznaczamy tak
+
+- zmniejszenie negatywnego wpływu na klimat i środowisko (działania pro-ekologiczne). Tu już omawialiśmy poprzednio.
+
+ 
+
+Proszę wskazać czy, a jeśli tak, to jakie przeszkody dla rozwoju CAV w ciągu najbliższych lat dostrzega Pan/i
+
+Pierwszym problemem jest stabilne źródło zasilania pojazdu autonomicznego, czyli energia, czyli źródło zasilania. Druga przeszkoda to taka trochę psychologiczna, czyli dehumanizacja człowieka, człowiek, który nie kieruje jest przewożony, człowiek przewożony jest rzeczą, jest ładunkiem. Nie jest kierowcą, jest rzeczą, a ludzie lubią kierować, nie wszyscy oczywiście, ale no jest to taki psychologiczny aspekt Jest również zbyt wielu ludzi, a musielibyśmy wyeliminować wielu ludzi z ruchu drogowego. Świadomość społeczna to kolejna przeszkoda, ponieważ pojazdy autonomiczne mogą funkcjonować w społeczeństwach zniewolonych, my jesteśmy bardzo bliscy tego. W Polsce jest tez zbyt duże pragnienie wolności, które wynika z długiego okresu komunizmu, żeby tak po prostu się poddać i oddać tą wolność kierowania pojazdem, a więc to jest ta zmiana mentalna, która wymaga wielu lat. Jednym z najistotniejszych czynników jest infrastruktura, do tego aby pojazdy autonomiczne funkcjonowały, to musi ona być cała przemodelowana, a to są koszty. No i muszą to być również rozwiązania systemowe, a rozwiązania systemowe buduje się dekadami, a kolejna rzecz to rozwiązania prawne, więc trzeba tak prawo dostosować, aby przewidziało ono tyle ile się da ewentualności, czyli na przykład jak dojdzie do katastrofy komunikacyjnej, a spowoduje ją pojazd autonomiczny i co wtedy? Kto będzie odpowiedzialny, producent samochodu, producent oprogramowania, czy inny uczestnik ruchu drogowego? Więc tu są potrzebne rozwiązania prawne.
+
+ 
+
+Proszę o wskazanie, które z wymienionych teraz przeze mnie przeszkód są z Pani/a punktu widzenia istotne i wskazanie dlaczego?
+
+- zaufanie konsumentów do technologicznych „nowinek” (ostrożność wobec niesprawdzonych technologii), tutaj Pan już odpowiedział.
+
+- Wspominał Pan również o zapotrzebowaniu na energię w związku z wykorzystaniem CAV
+
+- regulacje zapewniające odpowiedzialność producentów, dostawców oprogramowania, operatorów infrastruktury, a więc o tym Pan również o tym mówił
+
+- Także Pan wspomniał te procedury regulacyjne (ingerencja organów państwa)
+
+- niedojrzałość technologii i przedłużający się proces ich testowania, czyli wspomniał Pan, że aby mogło to być wdrożone, to ta infrastruktura musi być zrobiona.
+
+- koszt wdrożenia rozwiązań CAV
+
+Na pewno koszt infrastruktury, ponieważ ona jest tutaj najdroższa w tym wszystkim, samochód kosztuje X, a infrastrukturę trzeba zbudować na tyle bezpieczną, autonomiczną, która również współpracuje z pojazdami autonomicznymi, ponieważ trzeba zamontować je w drodze, więc to wszystko będzie kosztowało majątek.
+
+- zapewnienie wystarczającej ochrony wrażliwych danych (tajemnicy przedsiębiorstwa)
+
+Żyjąc dzisiaj społeczeństwie, czyli w środowisku, które jest bardzo mocno zinformatyzowane, a więc generalnie.. a może jeszcze inaczej, Informacja stała się dzisiaj towarem, ale także bronią, czy to w walce konkurencyjnej, czy to wręcz w walce pomiędzy grupami interesów, czy pomiędzy różnego rodzaju związkami np. NAFTA, czy też kraje europejskie zrzeszone w europejskie gospodarce prawnej, czyli w Unii Europejskiej, czy to Stanach Zjednoczonych lub Azji, tych związków jest mnóstwo. Na pewno żyjąc w takim zinformatyzowanym środowisku, w którym informacja jest towarem, narzędziem, bronią, argumentem, wartością, jest więc ryzyko. To jest przeszkoda na pewno.
+
+- zapewnienie wystarczającego bezpieczeństwa cybernetycznego
+
+Może być, a w zasadzie dzisiaj bezpieczeństwo cybernetyczne jest niemożliwe. To jest pewne, informacja zawsze będzie zagrożona. Zawsze się ktoś znajdzie, kto takie informacje zdobędzie i je wykorzysta.
+
+- ogólnodostępne środki wspierające badania i rozwój
+
+Zdecydowanie tak, jeżeli się uruchamia procesy dotyczące budowania tego typu projektów, to na to trzeba mieć ogromne środki. Wydaje mi się, że my nie jesteśmy na tego typu poziomie. Są oczywiście kraje takie jak Zjednoczone Emiraty Arabskie czy Norwegia, które pewnie inwestują w takie środki, bo będą mogły je sprzedawać i wprowadzać na świecie. Na ten moment na pewno jest to przeszkoda, aby móc uruchamiać takie projekty.
+
+
+Proszę wskazać czy, a jeśli tak, to jakie koszty i wyzwania związane z wprowadzaniem pojazdów i usług CAV w Polsce dostrzega Pan/i? Myślę, że tutaj Pan już trochę o tym powiedział, głównie, że infrastruktura jest takim kosztem i wyzwaniem.
+
+A czy konieczność pozyskania dodatkowych środków na inwestycje w technologię?
+
+Bez wątpienia tak jest, pandemia pokazała, że jeżeli chcemy wchodzić w tego typu projekty to będziemy mieli do czynienia z ogromnym zapotrzebowaniem na  elektronikę, gdzie nie może dojść do przerwania łańcuchów dostaw, bo jeżeli tak się stanie, to zatrzyma się cała gospodarka. Człowiek zareaguje, ale maszyna nie, bo ona działa zerojedynkowo, ma paliwo jedzie, nie ma paliwa, a człowiek mając determinacje, to ten samochodów nawet popchnie.
+
+- rozwój infrastruktury, tutaj już Pan o tym dużo wspomniał, więc ten temat już zostawmy.
+
+- zapewnienie wystarczającej ochrony ubezpieczeniowej
+
+Tak, bez wątpienia tak. Przejście zerojedynkowe z aktualnego systemu w jakim prowadzony jest ruch na autonomiczny jest niemożliwe, bo nie możemy nagle wszystkim ludziom zabrać prawa jazdy, zabrać auta i przesiąść się na pojazdy autonomiczne, to musi być jakiś proces. W tym momencie, jeżeli on będzie trwał, a on będzie trwał lata, dojdzie do bardzo wielu sytuacji, kontrowersyjnych, kiedy będą ginęli ludzie, kiedy będą duże szkody materiałowe, bo będą niszczone pojazdy itd. Udowodnienie kto jest winny za szkody, które się pojawiły będą niezmiernie trudne i wszyscy się będą wzajemnie oskarżać. Będą takie zawirowania prawne, ponieważ nikt się nie przyzna, że spowodował wypadek śmiertelny. Jest to ogromne wyzwanie.
+
+- zapewnienie szkoleń dla kierowców, operatorów i zarządców ruchu
+
+To będzie koszt. Wszyscy Ci ludzie, którzy będą wjeżdżać do miasta to będą piloci, tu będą potrzebne pewne szkolenia, pewne doświadczenie, pewna wiedza z gruntu. Czynniki ludzki będzie potrzebny, on będzie tutaj ważył.
+
+
+
+
+ 
+
+- zapewnienie bezpieczeństwa konsumentów (ochrony tajemnicy handlowej, ochrony danych osobowych, bezpieczeństwa cybernetycznego) omówiliśmy sobie wcześniej, więc to może być zarówno wyzwanie jak i koszt.
+
+- marketing nowych produktów transportowych. Wspomniał Pan, że nie będzie problemu z wprowadzeniem nowych pojazdów transportowych, ponieważ jak Pan to powiedział w cudzysłowie jesteśmy już "urobieni" przez media.
+
+- potrzeba opracowania etycznych standardów wdrażania technologii automatyzujących transport
+
+To jest bardzo indywidualna kwestia. Ja myślę sobie, że jesteśmy obecnie narodzin dwóch nowych religii na świecie i to jest bardzo ważny problem. Pierwsza to ekologizm, a druga nazywa się covidianizm, czyli mamy kapłanów i ludzi, którzy wierzą, czyli nie ma myślenia. Coś takiego jak etyka w biznesie istniała 100 lat temu, oczywiście wyjątki zdarzają się i dziś. Etyka jest wtedy, kiedy dwóch menadżerów, dyrektorów się spotyka, ustalają warunki ustnie i je honorują, a umowa jest efektem wtórnym, późniejszym, następstwem tych decyzji, kiedy podali sobie oni dłoń. To jest etyka. My o takiej etyce nie możemy mówić. Dzisiaj pomiędzy dwoma podmiotami umowy konstruują zespoły prawników w taki sposób, aby można było ja wypowiedzieć, ominąć, zawrzeć klauzule, to tu tutaj nie możemy mówić o etyce. Etyka to abstrakcja, to jest historia, to nie jest standard. Ja nad tym bardzo ubolewam, ponieważ przez to świat staje się gorszy.
+
+
+
+Kolejna kwestia to wymagania dotyczące infrastruktury drogowej w Polsce, które warunkują możliwość efektywnego testowania i wdrożenia technologii CAV, o której już Pan tu trochę mówił, czyli rozwój infrastruktury, ale teraz rozłożymy to na czynniki pierwsze czyli czy stworzenie wydzielonych obszarów testowych na wybranych odcinkach autostrad i dróg ekspresowych jest istotne?
+
+Tak, oczywiście 
+
+- stworzenie wydzielonych obszarów testowych w miastach?
+
+W centrach logistycznych, takich miejscach uprzemysłowionych, jakieś takie strefy ekonomiczne.
+
+- zapewnienie czytelności dla CAV znaków i sygnałów drogowych w warunkach lokalnych (standaryzacja)
+
+To na pewno też, aby te znaki były czytelne dla tych samochodów, dla ich czujników.
+
+- standaryzacja technologii telekomunikacyjnych zapewniających łączność V2X (np. upowszechnienie technologii 5G)
+
+Obligatoryjny jest to wymóg. Bez tego nie ma możliwości, aby to ruszyło. Już przy projektowaniu tego systemu trzeba to założyć.
+
+- optymalizacja infrastruktury lokalnej (skrzyżowań, krajobrazu ulic itp.)
+
+Jest to niezbędne. Wszystko to o czym mówimy jeżeli chodzi o infrastrukturę, to jeżeli zużycie energii jest na poziomie 100, to jeżeli wdrożymy te pojazdy autonomiczne oraz zwiększamy wszystko to co jest związane z sterowaniem tym ruchem, to myślę, że to będzie 100+... i tu nie jest w stanie powiedzieć ile więcej energii dodatkowo. Pytanie, czy my chcemy, czy my jesteśmy gotowi na taki wzrost energii. W momencie kiedy grozi nam w przyszłości, brak dostępu do energii eklektycznej.
+
+  
+
+Jak wdrożenie CAV zmieni sektor TSL? Jakie widzi Pan/i scenariusze/prognozy na przyszłość?
+
+  	W zasadzie, ja już na to pytanie odpowiedziałem. Najlepszym poligonem jest transport szynowy, czy to będzie miejski kolejowy, czy to transport kolejowy.  Jeżeli to jest możliwe stworzyć w okresie 15 lat, bo w pewnych obszarach te pojazdy autonomiczne zaczną już jeździć.
+
+
+
+Jakie sformułował(a)by Pan/i rekomendacje odnośnie działań przyspieszających pełniejsze wykorzystanie CAV w modelach biznesowych firm polskich?
+
+   	Na pewno koncentracja instytucji Państwa, które rozważają możliwość wprowadzenie tej technologii na terenie kraju, zwrócenie uwagi na duże przedsiębiorstwa przemysłowe, huty, koksownie, duże zakłady pracy, gdzie praca jest ciągła, gdzie transport odgrywa, stanowi kluczowe ogniwo, aby proces był ciągły. Druga rekomendacja, to koncentracja na ruchu transgranicznym, czyli na wykorzystaniu centralnego położenia Polski, przy wykorzystaniu pieniędzy z Chin i z Unii Europejskiej, po to, żeby przez Polskę przeprowadzić taką magistralę od granicy z wschodniej do granicy zachodniej, który umożliwi transport transgraniczny za pomocą jednego pasa. Czyli dałoby to możliwość wysłania jednego pociągu autonomicznego zamiast 100 pojazdów.
+
+ 
+
+Jakiego  wsparcia  oczekuje  Pan/i  od  administracji  publicznej  w  procesie  wdrażania CAV  w przedsiębiorstwach?
+
+ 	Podstawą zawsze jest rozmowa i otwartość, słuchanie argumentów, tych doświadczeń, słuchanie tego wszystkiego przez urzędników, którym to zadanie zostało powierzone. Dialog pomiędzy tymi kto projektuje, a będzie w tym pracował i tego używał. Jeżeli ten kto projektuje nie zapyta osoby, która będzie tego używać o jej punkt widzenia, o komfort, to wtedy projektuje to dla siebie.

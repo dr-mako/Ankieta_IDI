@@ -1,0 +1,45 @@
+﻿relation_id,respondent_id,transcript_file,segment_id,segment_text,source_construct,relation_type,target_construct,intensity,certainty,memo
+1,4,4.txt,0,zmniejszenia kosztów prowadzenia działalności,autonomous_operation,reduces,labor_costs,0.93,0.96,Autonomia ogranicza koszty pracy kierowców
+2,4,4.txt,0,lepszej optymalizacji ... organizacja pracy,operational_efficiency,amplifies,workforce_efficiency,0.87,0.91,Automatyzacja poprawia organizację pracy
+3,4,4.txt,0,braku wyszkolonych kierowców,autonomous_operation,reduces,labor_costs,0.9,0.94,Autonomia ogranicza problem niedoboru kierowców
+4,4,4.txt,0,program jazdy eko,operational_efficiency,reduces,energy_reduction,0.88,0.92,Eko-driving zmniejsza zużycie paliwa
+5,4,4.txt,0,uniknięcie kradzieży,operational_efficiency,amplifies,economic_stability,0.68,0.77,Lepsza kontrola poprawia stabilność ekonomiczną
+6,4,4.txt,0,"emisja o kilka, kilkanaście procent niżej",energy_reduction,reduces,environmental_impact,0.8,0.86,Mniejsze zużycie paliwa redukuje emisje
+7,4,4.txt,0,część odbiorców ... będzie patrzyć na to jak na innowację,social_image,amplifies,business_acceptance,0.76,0.84,Innowacyjny wizerunek zwiększa akceptację
+8,4,4.txt,0,kontrahent nie do końca zaufa tej technologii,social_acceptance,suppresses,market_adaptation,0.84,0.89,Brak zaufania ogranicza adaptację
+9,4,4.txt,0,automatycznego wyszukiwania miejsca na parkingu,parking_efficiency,reduces,traffic_efficiency,0.65,0.73,Lepsze parkowanie ogranicza zbędny ruch
+10,4,4.txt,0,wyeliminuje błędy kierowców,autonomous_operation,amplifies,accident_reduction,0.91,0.95,System autonomiczny ogranicza błędy kierowców
+11,4,4.txt,0,liczba wypadków drogowych ... będzie niższa,accident_reduction,amplifies,consumer_safety,0.93,0.96,Mniej wypadków poprawia bezpieczeństwo
+12,4,4.txt,0,"system będzie miał czujniki, które będą lepsze niż percepcja człowieka",technological_maturity,amplifies,consumer_safety,0.86,0.91,Zaawansowane sensory poprawiają bezpieczeństwo
+13,4,4.txt,0,zmniejszenie stresu związanego z jazdą,consumer_safety,amplifies,health_protection,0.79,0.86,Bezpieczniejsza jazda ogranicza stres
+14,4,4.txt,0,"będzie można poczytać materiały, odpocząć",autonomous_operation,amplifies,free_time,0.9,0.94,Autonomia uwalnia czas pasażera
+15,4,4.txt,0,koszty jednak wzrosną,implementation_cost,constrains,market_adaptation,0.88,0.92,Wysokie koszty ograniczają wdrożenie
+16,4,4.txt,0,poprawi się bezpieczeństwo,consumer_safety,amplifies,health_protection,0.89,0.93,Wyższe bezpieczeństwo chroni zdrowie i życie
+17,4,4.txt,0,system parkingowy ... kompatybilny z systemem przestrzeni miejskiej,supporting_infrastructure,enables,parking_efficiency,0.82,0.88,Integracja systemów wspiera parkowanie
+18,4,4.txt,0,zwiększy dostępność,mobility_improvement,amplifies,social_acceptance,0.74,0.82,Większa dostępność poprawia akceptację
+19,4,4.txt,0,osoby o ograniczonej sprawności będą mogły z tego korzystać,mobility_improvement,amplifies,consumer_safety,0.71,0.8,Mobilność zwiększa dostępność transportu
+20,4,4.txt,0,blokadą będzie cena pojazdu,implementation_cost,constrains,mobility_improvement,0.83,0.89,Wysoki koszt ogranicza dostępność
+21,4,4.txt,0,przeszkody w opracowaniu technologii,technological_maturity,conditions,autonomous_operation,0.92,0.95,Dojrzałość technologii warunkuje autonomię
+22,4,4.txt,0,system będzie w stanie przewidzieć zachowania kierowców,autonomous_operation,depends_on,technological_maturity,0.84,0.89,Autonomia zależy od jakości algorytmów
+23,4,4.txt,0,może się pojawić niechęć społeczeństwa,social_acceptance,suppresses,market_adaptation,0.86,0.91,Społeczna niechęć ogranicza wdrożenie
+24,4,4.txt,0,barierą może być też cena tego systemu,implementation_cost,constrains,business_acceptance,0.9,0.94,Koszty ograniczają akceptację biznesową
+25,4,4.txt,0,kompatybilne z systemem zarządzania ruchem,supporting_infrastructure,enables,traffic_efficiency,0.87,0.91,Integracja ITS poprawia płynność ruchu
+26,4,4.txt,0,ten system tej energii jakoś potrzebuje,energy_source,constrains,autonomous_operation,0.69,0.77,Zapotrzebowanie energetyczne ogranicza autonomię
+27,4,4.txt,0,dane będą zbierane,data_management,depends_on,consumer_safety,0.72,0.8,Bezpieczeństwo wymaga gromadzenia danych
+28,4,4.txt,0,Trzeba objąć producentów gwarancją za błędy,regulatory_governance,stabilizes,consumer_safety,0.85,0.9,Regulacje zwiększają odpowiedzialność
+29,4,4.txt,0,ingerencją powinno być zaprojektowanie systemu,regulatory_governance,enables,autonomous_operation,0.81,0.87,Państwo może wspierać wdrożenie
+30,4,4.txt,0,"koszty edukacyjne, koszty kampanii",investment_requirements,constrains,market_adaptation,0.78,0.84,Koszty edukacji ograniczają adaptację
+31,4,4.txt,0,trzeba zrobić marketing,market_adaptation,amplifies,social_acceptance,0.8,0.86,Marketing zwiększa akceptację społeczną
+32,4,4.txt,0,przetwarzanie tych danych,data_management,enables,traffic_efficiency,0.77,0.84,Dane wspierają zarządzanie ruchem
+33,4,4.txt,0,system będzie rejestrował to wszystko,insurance_protection,stabilizes,consumer_safety,0.74,0.82,Monitoring ułatwia ustalanie odpowiedzialności
+34,4,4.txt,0,trzeba poprawić oznakowanie dróg,signal_visibility,conditions,autonomous_operation,0.92,0.95,Czytelne oznakowanie warunkuje autonomię
+35,4,4.txt,0,kwestia zarządzania ruchem,infrastructure_optimization,enables,traffic_efficiency,0.88,0.92,Lepsze zarządzanie ruchem poprawia przepływ
+36,4,4.txt,0,czujników prędkości pojazdów,supporting_infrastructure,enables,traffic_efficiency,0.84,0.89,Czujniki wspierają optymalizację ruchu
+37,4,4.txt,0,digitalizacja ... cyfrowego odtworzenia sieci drogowej,data_management,enables,autonomous_operation,0.86,0.9,Cyfrowe mapowanie wspiera autonomię
+38,4,4.txt,0,monitoring,supporting_infrastructure,stabilizes,consumer_safety,0.75,0.83,Monitoring poprawia bezpieczeństwo
+39,4,4.txt,0,zwiększenie potencjału przewozowego,continuous_transport,amplifies,operational_efficiency,0.91,0.94,Brak ograniczeń czasu pracy zwiększa efektywność
+40,4,4.txt,0,zwiększy się bezpieczeństwo,consumer_safety,amplifies,health_protection,0.89,0.93,Wyższe bezpieczeństwo poprawia ochronę zdrowia
+41,4,4.txt,0,pozostałe koszty będą się optymalizować,operational_efficiency,reduces,implementation_cost,0.82,0.88,Optymalizacja zmniejsza koszty operacyjne
+42,4,4.txt,0,wsparciem finansowym,investment_requirements,enables,market_adaptation,0.87,0.91,Dofinansowanie wspiera wdrożenie
+43,4,4.txt,0,bardziej ekologiczny system,environmental_impact,amplifies,social_acceptance,0.7,0.79,Ekologiczność zwiększa akceptację
+44,4,4.txt,0,zwolnienie z podatków od środków transportu,regulatory_governance,enables,market_adaptation,0.85,0.9,Ulgi podatkowe wspierają adopcję
