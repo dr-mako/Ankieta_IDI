@@ -1,0 +1,151 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 1400px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+
+<div style="
+position:absolute;
+top:10px;
+left:10px;
+background:white;
+padding:10px;
+border:1px solid black;
+z-index:9999;
+font-size:14px;
+">
+
+<b>Relation Types</b><br>
+
+<span style="color:green;">■</span> amplifies<br>
+<span style="color:red;">■</span> suppresses<br>
+<span style="color:black;">■</span> conflicts_with<br>
+<span style="color:blue;">■</span> depends_on<br>
+<span style="color:orange;">■</span> enables<br>
+<span style="color:gray;">■</span> other
+
+</div>
+
+
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "accident_reduction", "label": "accident_reduction", "shape": "dot", "size": 19, "title": "accident_reduction"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "health_protection", "label": "health_protection", "shape": "dot", "size": 21, "title": "health_protection"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "autonomous_operation", "label": "autonomous_operation", "shape": "dot", "size": 51, "title": "autonomous_operation"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "operational_efficiency", "label": "operational_efficiency", "shape": "dot", "size": 27, "title": "operational_efficiency"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "traffic_efficiency", "label": "traffic_efficiency", "shape": "dot", "size": 29, "title": "traffic_efficiency"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "social_acceptance", "label": "social_acceptance", "shape": "dot", "size": 21, "title": "social_acceptance"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "workforce_efficiency", "label": "workforce_efficiency", "shape": "dot", "size": 17, "title": "workforce_efficiency"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "fuel_consumption", "label": "fuel_consumption", "shape": "dot", "size": 21, "title": "fuel_consumption"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "labor_costs", "label": "labor_costs", "shape": "dot", "size": 19, "title": "labor_costs"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "consumer_safety", "label": "consumer_safety", "shape": "dot", "size": 17, "title": "consumer_safety"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "continuous_transport", "label": "continuous_transport", "shape": "dot", "size": 23, "title": "continuous_transport"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "cargo_transport", "label": "cargo_transport", "shape": "dot", "size": 19, "title": "cargo_transport"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "mobility_improvement", "label": "mobility_improvement", "shape": "dot", "size": 19, "title": "mobility_improvement"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "data_management", "label": "data_management", "shape": "dot", "size": 19, "title": "data_management"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "business_acceptance", "label": "business_acceptance", "shape": "dot", "size": 27, "title": "business_acceptance"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "technological_trust", "label": "technological_trust", "shape": "dot", "size": 21, "title": "technological_trust"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "energy_source", "label": "energy_source", "shape": "dot", "size": 19, "title": "energy_source"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "environmental_sustainability", "label": "environmental_sustainability", "shape": "dot", "size": 17, "title": "environmental_sustainability"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "environmental_impact", "label": "environmental_impact", "shape": "dot", "size": 19, "title": "environmental_impact"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "highway_test_zones", "label": "highway_test_zones", "shape": "dot", "size": 23, "title": "highway_test_zones"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "technological_maturity", "label": "technological_maturity", "shape": "dot", "size": 27, "title": "technological_maturity"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "implementation_cost", "label": "implementation_cost", "shape": "dot", "size": 23, "title": "implementation_cost"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "investment_requirements", "label": "investment_requirements", "shape": "dot", "size": 23, "title": "investment_requirements"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "infrastructure_optimization", "label": "infrastructure_optimization", "shape": "dot", "size": 21, "title": "infrastructure_optimization"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "infrastructure_readiness", "label": "infrastructure_readiness", "shape": "dot", "size": 19, "title": "infrastructure_readiness"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "regulatory_procedures", "label": "regulatory_procedures", "shape": "dot", "size": 21, "title": "regulatory_procedures"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "research_support", "label": "research_support", "shape": "dot", "size": 21, "title": "research_support"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "signal_visibility", "label": "signal_visibility", "shape": "dot", "size": 17, "title": "signal_visibility"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "supporting_infrastructure", "label": "supporting_infrastructure", "shape": "dot", "size": 21, "title": "supporting_infrastructure"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "technology_standardization", "label": "technology_standardization", "shape": "dot", "size": 17, "title": "technology_standardization"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "training_requirements", "label": "training_requirements", "shape": "dot", "size": 17, "title": "training_requirements"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "urban_density", "label": "urban_density", "shape": "dot", "size": 17, "title": "urban_density"}, {"borderWidth": 2, "color": "#97c2fc", "font": {"color": "black"}, "id": "urban_test_zones", "label": "urban_test_zones", "shape": "dot", "size": 19, "title": "urban_test_zones"}]);
+                  edges = new vis.DataSet([{"arrows": "to", "color": "green", "from": "accident_reduction", "title": "Relation: amplifies\u003cbr\u003eWeight: 0.89\u003cbr\u003eFrequency: 14", "to": "health_protection", "value": 4.425}, {"arrows": "to", "color": "green", "from": "autonomous_operation", "title": "Relation: amplifies\u003cbr\u003eWeight: 0.89\u003cbr\u003eFrequency: 14", "to": "health_protection", "value": 4.4714285714285715}, {"arrows": "to", "color": "green", "from": "autonomous_operation", "title": "Relation: amplifies\u003cbr\u003eWeight: 0.88\u003cbr\u003eFrequency: 12", "to": "operational_efficiency", "value": 4.404166666666667}, {"arrows": "to", "color": "green", "from": "autonomous_operation", "title": "Relation: amplifies\u003cbr\u003eWeight: 0.89\u003cbr\u003eFrequency: 10", "to": "traffic_efficiency", "value": 4.4350000000000005}, {"arrows": "to", "color": "black", "from": "autonomous_operation", "title": "Relation: conflicts_with\u003cbr\u003eWeight: 0.88\u003cbr\u003eFrequency: 9", "to": "social_acceptance", "value": 4.4}, {"arrows": "to", "color": "black", "from": "autonomous_operation", "title": "Relation: conflicts_with\u003cbr\u003eWeight: 0.88\u003cbr\u003eFrequency: 11", "to": "workforce_efficiency", "value": 4.4}, {"arrows": "to", "color": "gray", "from": "autonomous_operation", "title": "Relation: reduces\u003cbr\u003eWeight: 0.89\u003cbr\u003eFrequency: 17", "to": "accident_reduction", "value": 4.452941176470588}, {"arrows": "to", "color": "gray", "from": "autonomous_operation", "title": "Relation: reduces\u003cbr\u003eWeight: 0.85\u003cbr\u003eFrequency: 23", "to": "fuel_consumption", "value": 4.252173913043478}, {"arrows": "to", "color": "gray", "from": "autonomous_operation", "title": "Relation: reduces\u003cbr\u003eWeight: 0.93\u003cbr\u003eFrequency: 27", "to": "labor_costs", "value": 4.6722222222222225}, {"arrows": "to", "color": "green", "from": "operational_efficiency", "title": "Relation: amplifies\u003cbr\u003eWeight: 0.85\u003cbr\u003eFrequency: 5", "to": "business_acceptance", "value": 4.27}, {"arrows": "to", "color": "green", "from": "operational_efficiency", "title": "Relation: amplifies\u003cbr\u003eWeight: 0.89\u003cbr\u003eFrequency: 5", "to": "cargo_transport", "value": 4.45}, {"arrows": "to", "color": "gray", "from": "operational_efficiency", "title": "Relation: reduces\u003cbr\u003eWeight: 0.86\u003cbr\u003eFrequency: 9", "to": "fuel_consumption", "value": 4.311111111111111}, {"arrows": "to", "color": "gray", "from": "operational_efficiency", "title": "Relation: reduces\u003cbr\u003eWeight: 0.86\u003cbr\u003eFrequency: 25", "to": "implementation_cost", "value": 4.29}, {"arrows": "to", "color": "green", "from": "traffic_efficiency", "title": "Relation: amplifies\u003cbr\u003eWeight: 0.86\u003cbr\u003eFrequency: 19", "to": "mobility_improvement", "value": 4.313157894736842}, {"arrows": "to", "color": "gray", "from": "fuel_consumption", "title": "Relation: reduces\u003cbr\u003eWeight: 0.85\u003cbr\u003eFrequency: 13", "to": "environmental_impact", "value": 4.257692307692308}, {"arrows": "to", "color": "gray", "from": "labor_costs", "title": "Relation: reduces\u003cbr\u003eWeight: 0.88\u003cbr\u003eFrequency: 5", "to": "implementation_cost", "value": 4.4}, {"arrows": "to", "color": "green", "from": "consumer_safety", "title": "Relation: amplifies\u003cbr\u003eWeight: 0.87\u003cbr\u003eFrequency: 5", "to": "health_protection", "value": 4.36}, {"arrows": "to", "color": "green", "from": "continuous_transport", "title": "Relation: amplifies\u003cbr\u003eWeight: 0.91\u003cbr\u003eFrequency: 10", "to": "cargo_transport", "value": 4.555}, {"arrows": "to", "color": "green", "from": "continuous_transport", "title": "Relation: amplifies\u003cbr\u003eWeight: 0.89\u003cbr\u003eFrequency: 10", "to": "mobility_improvement", "value": 4.475}, {"arrows": "to", "color": "green", "from": "continuous_transport", "title": "Relation: amplifies\u003cbr\u003eWeight: 0.9\u003cbr\u003eFrequency: 36", "to": "operational_efficiency", "value": 4.5249999999999995}, {"arrows": "to", "color": "green", "from": "continuous_transport", "title": "Relation: amplifies\u003cbr\u003eWeight: 0.87\u003cbr\u003eFrequency: 5", "to": "traffic_efficiency", "value": 4.36}, {"arrows": "to", "color": "black", "from": "data_management", "title": "Relation: conflicts_with\u003cbr\u003eWeight: 0.86\u003cbr\u003eFrequency: 12", "to": "business_acceptance", "value": 4.308333333333334}, {"arrows": "to", "color": "black", "from": "data_management", "title": "Relation: conflicts_with\u003cbr\u003eWeight: 0.89\u003cbr\u003eFrequency: 18", "to": "technological_trust", "value": 4.427777777777778}, {"arrows": "to", "color": "black", "from": "technological_trust", "title": "Relation: conflicts_with\u003cbr\u003eWeight: 0.91\u003cbr\u003eFrequency: 23", "to": "social_acceptance", "value": 4.552173913043479}, {"arrows": "to", "color": "black", "from": "energy_source", "title": "Relation: conflicts_with\u003cbr\u003eWeight: 0.86\u003cbr\u003eFrequency: 7", "to": "autonomous_operation", "value": 4.292857142857143}, {"arrows": "to", "color": "gray", "from": "environmental_sustainability", "title": "Relation: reduces\u003cbr\u003eWeight: 0.87\u003cbr\u003eFrequency: 7", "to": "environmental_impact", "value": 4.35}, {"arrows": "to", "color": "black", "from": "highway_test_zones", "title": "Relation: conflicts_with\u003cbr\u003eWeight: 0.87\u003cbr\u003eFrequency: 9", "to": "traffic_efficiency", "value": 4.333333333333334}, {"arrows": "to", "color": "orange", "from": "highway_test_zones", "title": "Relation: enables\u003cbr\u003eWeight: 0.89\u003cbr\u003eFrequency: 6", "to": "autonomous_operation", "value": 4.45}, {"arrows": "to", "color": "orange", "from": "highway_test_zones", "title": "Relation: enables\u003cbr\u003eWeight: 0.87\u003cbr\u003eFrequency: 15", "to": "technological_maturity", "value": 4.37}, {"arrows": "to", "color": "blue", "from": "technological_maturity", "title": "Relation: depends_on\u003cbr\u003eWeight: 0.86\u003cbr\u003eFrequency: 8", "to": "autonomous_operation", "value": 4.29375}, {"arrows": "to", "color": "black", "from": "technological_maturity", "title": "Relation: conflicts_with\u003cbr\u003eWeight: 0.9\u003cbr\u003eFrequency: 9", "to": "technological_trust", "value": 4.5055555555555555}, {"arrows": "to", "color": "green", "from": "implementation_cost", "title": "Relation: amplifies\u003cbr\u003eWeight: 0.89\u003cbr\u003eFrequency: 5", "to": "investment_requirements", "value": 4.46}, {"arrows": "to", "color": "black", "from": "implementation_cost", "title": "Relation: conflicts_with\u003cbr\u003eWeight: 0.91\u003cbr\u003eFrequency: 31", "to": "business_acceptance", "value": 4.540322580645161}, {"arrows": "to", "color": "black", "from": "investment_requirements", "title": "Relation: conflicts_with\u003cbr\u003eWeight: 0.9\u003cbr\u003eFrequency: 31", "to": "business_acceptance", "value": 4.52258064516129}, {"arrows": "to", "color": "blue", "from": "investment_requirements", "title": "Relation: depends_on\u003cbr\u003eWeight: 0.88\u003cbr\u003eFrequency: 5", "to": "autonomous_operation", "value": 4.38}, {"arrows": "to", "color": "orange", "from": "infrastructure_optimization", "title": "Relation: enables\u003cbr\u003eWeight: 0.9\u003cbr\u003eFrequency: 15", "to": "autonomous_operation", "value": 4.5}, {"arrows": "to", "color": "orange", "from": "infrastructure_optimization", "title": "Relation: enables\u003cbr\u003eWeight: 0.89\u003cbr\u003eFrequency: 5", "to": "highway_test_zones", "value": 4.43}, {"arrows": "to", "color": "orange", "from": "infrastructure_optimization", "title": "Relation: enables\u003cbr\u003eWeight: 0.88\u003cbr\u003eFrequency: 5", "to": "traffic_efficiency", "value": 4.38}, {"arrows": "to", "color": "black", "from": "infrastructure_readiness", "title": "Relation: conflicts_with\u003cbr\u003eWeight: 0.94\u003cbr\u003eFrequency: 12", "to": "autonomous_operation", "value": 4.699999999999999}, {"arrows": "to", "color": "orange", "from": "infrastructure_readiness", "title": "Relation: enables\u003cbr\u003eWeight: 0.87\u003cbr\u003eFrequency: 8", "to": "traffic_efficiency", "value": 4.35625}, {"arrows": "to", "color": "black", "from": "regulatory_procedures", "title": "Relation: conflicts_with\u003cbr\u003eWeight: 0.93\u003cbr\u003eFrequency: 5", "to": "autonomous_operation", "value": 4.66}, {"arrows": "to", "color": "orange", "from": "regulatory_procedures", "title": "Relation: enables\u003cbr\u003eWeight: 0.89\u003cbr\u003eFrequency: 5", "to": "business_acceptance", "value": 4.46}, {"arrows": "to", "color": "gray", "from": "regulatory_procedures", "title": "Relation: stabilizes\u003cbr\u003eWeight: 0.88\u003cbr\u003eFrequency: 7", "to": "technological_maturity", "value": 4.4}, {"arrows": "to", "color": "green", "from": "research_support", "title": "Relation: amplifies\u003cbr\u003eWeight: 0.86\u003cbr\u003eFrequency: 12", "to": "business_acceptance", "value": 4.291666666666667}, {"arrows": "to", "color": "green", "from": "research_support", "title": "Relation: amplifies\u003cbr\u003eWeight: 0.85\u003cbr\u003eFrequency: 11", "to": "technological_maturity", "value": 4.2681818181818185}, {"arrows": "to", "color": "gray", "from": "research_support", "title": "Relation: reduces\u003cbr\u003eWeight: 0.88\u003cbr\u003eFrequency: 14", "to": "investment_requirements", "value": 4.410714285714286}, {"arrows": "to", "color": "gray", "from": "signal_visibility", "title": "Relation: stabilizes\u003cbr\u003eWeight: 0.87\u003cbr\u003eFrequency: 14", "to": "autonomous_operation", "value": 4.353571428571429}, {"arrows": "to", "color": "orange", "from": "supporting_infrastructure", "title": "Relation: enables\u003cbr\u003eWeight: 0.89\u003cbr\u003eFrequency: 18", "to": "autonomous_operation", "value": 4.469444444444444}, {"arrows": "to", "color": "blue", "from": "supporting_infrastructure", "title": "Relation: depends_on\u003cbr\u003eWeight: 0.89\u003cbr\u003eFrequency: 12", "to": "energy_source", "value": 4.466666666666667}, {"arrows": "to", "color": "orange", "from": "supporting_infrastructure", "title": "Relation: enables\u003cbr\u003eWeight: 0.86\u003cbr\u003eFrequency: 7", "to": "traffic_efficiency", "value": 4.292857142857143}, {"arrows": "to", "color": "gray", "from": "technology_standardization", "title": "Relation: stabilizes\u003cbr\u003eWeight: 0.85\u003cbr\u003eFrequency: 5", "to": "autonomous_operation", "value": 4.27}, {"arrows": "to", "color": "orange", "from": "training_requirements", "title": "Relation: enables\u003cbr\u003eWeight: 0.85\u003cbr\u003eFrequency: 7", "to": "social_acceptance", "value": 4.25}, {"arrows": "to", "color": "black", "from": "urban_density", "title": "Relation: conflicts_with\u003cbr\u003eWeight: 0.89\u003cbr\u003eFrequency: 13", "to": "urban_test_zones", "value": 4.473076923076923}, {"arrows": "to", "color": "orange", "from": "urban_test_zones", "title": "Relation: enables\u003cbr\u003eWeight: 0.87\u003cbr\u003eFrequency: 7", "to": "technological_maturity", "value": 4.3428571428571425}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"nodes": {"font": {"size": 40, "face": "arial"}, "scaling": {"label": {"enabled": false}}}, "physics": {"barnesHut": {"gravitationalConstant": -12000, "centralGravity": 0.15, "springLength": 350, "springConstant": 0.02, "damping": 0.95}, "minVelocity": 0.75}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
