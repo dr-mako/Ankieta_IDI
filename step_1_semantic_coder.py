@@ -1,3 +1,5 @@
+# Step 1
+# 
 # semantic_coder.py — V2 (Excel integrated)
 #++++++++++++++++++++++++++++++++++++++++++
 # URUCHOMIENIE

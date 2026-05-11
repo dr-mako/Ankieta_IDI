@@ -1,3 +1,6 @@
+# 
+# Step 3
+# 
 # =====================================================
 # SEMANTIC RELATION GRAPH BUILDER
 # semantic_graph.py
@@ -7,7 +10,7 @@
 # pip install pandas networkx matplotlib pyvis
 
 # URUCHOM
-# python semantic_graph.py
+# python step_3_semantic_graph.py
 
 # =====================================================
 # IMPORTS
@@ -353,7 +356,7 @@ plt.figure(
 
 pos = nx.spring_layout(
     G,
-    k=6.0, # Większe rozepchnięcie grafu
+    k=10.0, # Większe rozepchnięcie grafu
     iterations=1000, # Więcej iteracji stabilizacji
     seed=42 
 )
@@ -384,7 +387,7 @@ for node, (x, y) in pos.items():
         x,
         y + 0.05, # Etykiety wyjdą poza nody
         node,
-        fontsize=10, # Mniejsza czcionka
+        fontsize=20, # Mniejsza czcionka
         ha='center'
     )
 

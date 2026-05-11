@@ -2,7 +2,7 @@
 # weighted_network_analysis.py
 #
 # RUN
-# python weighted_network_analysis.py
+# python step_4_weighted_network_analysis.py
 #
 # semantic relational systems analysis
 #
@@ -586,7 +586,7 @@ pos = nx.spring_layout(
 
     G,
 
-    k=2.8,
+    k=10,
 
     iterations=500,
 
@@ -698,7 +698,7 @@ nx.draw_networkx_labels(
     G,
     pos,
 
-    font_size=10
+    font_size=18
 )
 
 # =====================================================
@@ -1297,7 +1297,7 @@ pos = nx.spring_layout(
 
     G,
 
-    k=3.5,
+    k=7,
 
     iterations=300,
 
@@ -1384,7 +1384,7 @@ nx.draw_networkx_labels(
 
     pos,
 
-    font_size=10,
+    font_size=14,
 
     font_weight="bold"
 )
@@ -1407,6 +1407,13 @@ plt.tight_layout()
 # -----------------------------------------------------
 # SAVE
 # -----------------------------------------------------
+
+plt.savefig(
+
+    "semantic_communities.svg",
+
+    bbox_inches="tight"
+)
 
 plt.savefig(
 
@@ -1516,6 +1523,7 @@ plt.tight_layout()
 # -----------------------------------------------------
 # SAVE
 # -----------------------------------------------------
+
 
 plt.savefig(
 

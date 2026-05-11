@@ -1,6 +1,8 @@
 
-# cavi_fuzzy_integration.py
+# step_6_cavi_fuzzy_integration.py
 # automatic bridge resolver
+# wywołanie
+# python step_6_cavi_fuzzy_integration.py
 
 import pandas as pd
 
