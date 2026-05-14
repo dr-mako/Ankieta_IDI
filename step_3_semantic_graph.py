@@ -958,15 +958,27 @@ for _, row in group_summary.iterrows():
 # DRAW GROUP GRAPH
 # =====================================================
 
-plt.figure(figsize=(14, 10))
-# ustawia pozycje nodów na rys 
+plt.figure(
+    figsize=(6.3, 4.8)
+)
+
+# =====================================================
+# LAYOUT
+# =====================================================
+
 pos = nx.spring_layout(
+
     G_group,
-    k=2.5,
+
+    k=3.8,
+
     seed=42
 )
 
-# node sizes
+# =====================================================
+# NODE SIZES
+# =====================================================
+
 node_sizes = []
 
 for node in G_group.nodes():
@@ -974,10 +986,14 @@ for node in G_group.nodes():
     degree = G_group.degree(node)
 
     node_sizes.append(
-        2500 + degree * 600
+
+        900 + degree * 220
     )
 
-# edge widths
+# =====================================================
+# EDGE WIDTHS
+# =====================================================
+
 edge_widths = []
 
 for u, v in G_group.edges():
@@ -985,10 +1001,14 @@ for u, v in G_group.edges():
     freq = G_group[u][v]["frequency"]
 
     edge_widths.append(
-       0.5 + freq * 0.08
+
+       0.4 + freq * 0.04
     )
 
-# nodes
+# =====================================================
+# NODES
+# =====================================================
+
 nx.draw_networkx_nodes(
 
     G_group,
@@ -1000,10 +1020,15 @@ nx.draw_networkx_nodes(
 
     edgecolors="#4a6fa5",
 
-    linewidths=2
+    linewidths=0.8,
+
+    alpha=0.9
 )
 
-# edges
+# =====================================================
+# EDGES
+# =====================================================
+
 nx.draw_networkx_edges(
 
     G_group,
@@ -1013,45 +1038,59 @@ nx.draw_networkx_edges(
 
     arrows=True,
 
-    arrowsize=25,
+    arrowsize=12,
 
-    alpha=0.8
+    alpha=0.45
 )
 
-# labels
+# =====================================================
+# LABELS
+# =====================================================
+
 nx.draw_networkx_labels(
 
     G_group,
     pos,
 
-    font_size=14,
+    font_size=9,
 
-    font_weight="bold"
+    font_weight="normal"
 )
 
-plt.title(
-    "Group-Level Semantic System",
-    fontsize=18
-)
+# =====================================================
+# FINAL
+# =====================================================
 
 plt.axis("off")
 
 plt.tight_layout()
 
 plt.title(
+
     "Group-Level Semantic System",
-    fontsize=26,
-    pad=25
+
+    fontsize=11,
+
+    pad=10
 )
 
+# =====================================================
+# SAVE
+# =====================================================
+
 plt.savefig(
+
     "group_level_system.png",
+
     dpi=600,
+
     bbox_inches="tight"
 )
 
 plt.savefig(
+
     "group_level_system.svg",
+
     bbox_inches="tight"
 )
 

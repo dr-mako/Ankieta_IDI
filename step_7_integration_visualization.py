@@ -77,34 +77,31 @@ for _, row in integration_df.iterrows():
 # BUILD VISUAL ATTRIBUTES
 # =====================================================
 
-for node in G.nodes():
+node_colors = []
+node_sizes = []
+
+for node in list(G.nodes()):
 
     if node in integration_map:
 
         row = integration_map[node]
 
-        # color
-        node_colors.append(
-
-            pc_color_map.get(
-                row["dominant_pc"],
-                "gray"
-            )
+        color = pc_color_map.get(
+            row["dominant_pc"],
+            "gray"
         )
 
-        # size
         size = (
-
-            row["fuzzy_propagation"]
-            * 6000
-        ) + 300
-
-        node_sizes.append(size)
+            float(row["fuzzy_propagation"]) * 1500
+        ) + 180
 
     else:
 
-        node_colors.append("lightgray")
-        node_sizes.append(500)
+        color = "lightgray"
+        size = 220
+
+    node_colors.append(color)
+    node_sizes.append(float(size))
 
 # =====================================================
 # EDGE ATTRIBUTES
@@ -116,28 +113,31 @@ for _, _, d in G.edges(data=True):
 
     edge_widths.append(
 
-        d["weight"] * 1.5
+        d["weight"] * 0.9
     )
 
-# =====================================================
-# LAYOUT
-# =====================================================
-
-pos = nx.spring_layout(
-
-    G,
-
-    seed=42,
-
-    k=3
-)
 
 # =====================================================
 # FIGURE
 # =====================================================
 
 plt.figure(
-    figsize=(20, 18)
+    figsize=(6.3, 5.2)
+)
+
+# -----------------------------------------------------
+# LAYOUT
+# -----------------------------------------------------
+
+pos = nx.spring_layout(
+
+    G,
+
+    k=20,
+
+    iterations=700,
+
+    seed=42
 )
 
 # -----------------------------------------------------
@@ -151,7 +151,7 @@ nx.draw_networkx_edges(
 
     width=edge_widths,
 
-    alpha=0.12,
+    alpha=0.035,
 
     edge_color="gray"
 )
@@ -161,13 +161,19 @@ nx.draw_networkx_edges(
 # -----------------------------------------------------
 
 nx.draw_networkx_nodes(
+
     G,
     pos,
+
     node_size=node_sizes,
+
     node_color=node_colors,
+
     edgecolors="black",
-    linewidths=0.8,
-    alpha=0.9
+
+    linewidths=0.5,
+
+    alpha=0.74
 )
 
 # =====================================================
@@ -185,20 +191,32 @@ top_nodes = integration_df[
 for node, (x, y) in pos.items():
 
     if node in top_nodes:
-        fs = 20
+
+        fs = 8
         alpha = 1.0
+        weight = "normal"
 
     else:
-        fs = 10
-        alpha = 0.75
+
+        fs = 6
+        alpha = 0.72
+        weight = "normal"
 
     plt.text(
+
         x,
         y,
+
         node,
+
         fontsize=fs,
+
+        fontweight=weight,
+
         alpha=alpha,
+
         ha="center",
+
         va="center"
     )
 
@@ -222,7 +240,7 @@ legend_elements = [
 
         markerfacecolor=pc_color_map["PC1"],
 
-        markersize=15
+        markersize=7
     ),
 
     Line2D(
@@ -237,7 +255,7 @@ legend_elements = [
 
         markerfacecolor=pc_color_map["PC2"],
 
-        markersize=15
+        markersize=7
     ),
 
     Line2D(
@@ -252,7 +270,7 @@ legend_elements = [
 
         markerfacecolor=pc_color_map["PC3"],
 
-        markersize=15
+        markersize=7
     )
 ]
 
@@ -262,9 +280,9 @@ plt.legend(
 
     title="Dominant PCA Component",
 
-    fontsize=12,
+    fontsize=8,
 
-    title_fontsize=13,
+    title_fontsize=9,
 
     loc="upper left"
 )
@@ -277,12 +295,14 @@ plt.title(
 
     "Integrated PCA–Fuzzy Semantic Propagation System",
 
-    fontsize=24
+    fontsize=10
 )
 
 plt.axis("off")
 
-plt.tight_layout()
+plt.tight_layout(
+    pad=0.3
+)
 
 # =====================================================
 # SAVE

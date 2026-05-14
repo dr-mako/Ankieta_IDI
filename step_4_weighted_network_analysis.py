@@ -85,8 +85,8 @@ import matplotlib.pyplot as plt
 
 OUTPUT_DIR = Path("output")
 
-MIN_FREQUENCY = 3
-MIN_INTENSITY = 0.75
+MIN_FREQUENCY = 5
+MIN_INTENSITY = 0.85
 
 # =====================================================
 # LOAD CSV FILES
@@ -527,66 +527,18 @@ print("\n=== NETWORK RECIPROCITY ===")
 print(round(reciprocity, 4))
 
 # =====================================================
-# CENTRALITY FIGURE
-# =====================================================
-
-top10 = weighted_degree_df.head(10)
-
-plt.figure(figsize=(12, 7))
-
-plt.barh(
-
-    top10["construct"],
-
-    top10["weighted_degree"]
-)
-
-plt.gca().invert_yaxis()
-
-plt.title(
-    "Top Weighted Constructs",
-    fontsize=18
-)
-
-plt.xlabel(
-    "Weighted Degree",
-    fontsize=14
-)
-
-plt.tight_layout()
-
-plt.savefig(
-    "weighted_degree_ranking.svg",
-    bbox_inches="tight"
-)
-
-plt.savefig(
-    "weighted_degree_ranking.png",
-    dpi=600,
-    bbox_inches="tight"
-)
-
-plt.show()
-
-plt.close()
-
-print(
-    "\nAnalysis complete."
-)
-
-# =====================================================
 # WEIGHTED INFLUENCE GRAPH
 # =====================================================
 
 plt.figure(
-    figsize=(24, 18)
+    figsize=(10, 7.5)
 )
 
 pos = nx.spring_layout(
 
     G,
 
-    k=10,
+    k=12,
 
     iterations=500,
 
@@ -603,12 +555,12 @@ for node in G.nodes():
 
     size = (
 
-        1200
+    400
 
-        +
+    +
 
-        weighted_degree[node] * 18
-    )
+    weighted_degree[node] * 7
+)
 
     node_sizes.append(size)
 
@@ -624,7 +576,7 @@ for u, v in G.edges():
 
     edge_widths.append(
 
-        0.5 + w * 0.18
+        0.4 + w * 0.12
     )
 
 # =====================================================
@@ -684,9 +636,9 @@ nx.draw_networkx_edges(
 
     arrows=True,
 
-    arrowsize=18,
+    arrowsize=12,
 
-    alpha=0.75
+    alpha=0.7
 )
 
 # =====================================================
@@ -698,7 +650,9 @@ nx.draw_networkx_labels(
     G,
     pos,
 
-    font_size=18
+    font_size=9,
+
+    font_weight="normal"
 )
 
 # =====================================================
@@ -709,7 +663,7 @@ plt.title(
 
     "Weighted Semantic Influence Network",
 
-    fontsize=24
+    fontsize=16
 )
 
 # =====================================================
@@ -724,7 +678,7 @@ legend_elements = [
         [0],
         [0],
         color='green',
-        lw=3,
+        lw=2.5,
         label='amplifies'
     ),
 
@@ -732,7 +686,7 @@ legend_elements = [
         [0],
         [0],
         color='red',
-        lw=3,
+        lw=2.5,
         label='suppresses'
     ),
 
@@ -740,7 +694,7 @@ legend_elements = [
         [0],
         [0],
         color='black',
-        lw=3,
+        lw=2.5,
         label='conflicts_with'
     ),
 
@@ -748,7 +702,7 @@ legend_elements = [
         [0],
         [0],
         color='blue',
-        lw=3,
+        lw=2.5,
         label='depends_on'
     ),
 
@@ -756,7 +710,7 @@ legend_elements = [
         [0],
         [0],
         color='orange',
-        lw=3,
+        lw=2.5,
         label='enables'
     ),
 
@@ -764,7 +718,7 @@ legend_elements = [
         [0],
         [0],
         color='gray',
-        lw=3,
+        lw=2,
         label='other'
     )
 ]
@@ -841,7 +795,7 @@ print(
 # -----------------------------------------------------
 
 plt.figure(
-    figsize=(18, 12)
+    figsize=(10, 6.7)
 )
 
 pos = nx.kamada_kawai_layout(H)
@@ -863,7 +817,7 @@ for node in H.nodes():
     ]["weighted_degree"].values[0]
 
     sub_sizes.append(
-        1200 + score * 15
+        700 + score * 9
     )
 
 # -----------------------------------------------------
@@ -904,7 +858,7 @@ for u, v in H.edges():
 
     freq = H[u][v]["frequency"]
 
-    width = 0.8 + (freq / 10)
+    width = 0.6 + (freq / 12)
 
     edge_widths.append(width)
 
@@ -923,7 +877,7 @@ nx.draw_networkx_nodes(
 
     edgecolors="#4a6fa5",
 
-    linewidths=2
+    linewidths=1.5
 )
 
 nx.draw_networkx_edges(
@@ -937,7 +891,7 @@ nx.draw_networkx_edges(
 
     arrows=True,
 
-    arrowsize=16,
+    arrowsize=12,
 
     alpha=0.45,
 
@@ -967,7 +921,7 @@ legend_elements = [
         [0],
         [0],
         color='green',
-        lw=3,
+        lw=2.5,
         label='amplifies'
     ),
 
@@ -975,7 +929,7 @@ legend_elements = [
         [0],
         [0],
         color='red',
-        lw=3,
+        lw=2.5,
         label='suppresses'
     ),
 
@@ -983,7 +937,7 @@ legend_elements = [
         [0],
         [0],
         color='black',
-        lw=3,
+        lw=2.5,
         label='conflicts_with'
     ),
 
@@ -991,7 +945,7 @@ legend_elements = [
         [0],
         [0],
         color='blue',
-        lw=3,
+        lw=2.5,
         label='depends_on'
     ),
 
@@ -999,7 +953,7 @@ legend_elements = [
         [0],
         [0],
         color='orange',
-        lw=3,
+        lw=2.5,
         label='enables'
     ),
 
@@ -1007,7 +961,7 @@ legend_elements = [
         [0],
         [0],
         color='gray',
-        lw=3,
+        lw=2.5,
         label='other'
     )
 ]
@@ -1018,7 +972,7 @@ plt.legend(
 
     loc='upper left',
 
-    fontsize=11
+    fontsize=12
 )
 
 # -----------------------------------------------------
@@ -1029,7 +983,7 @@ plt.title(
 
     "Core Semantic Influence Structure",
 
-    fontsize=24
+    fontsize=16
 )
 
 plt.axis("off")
@@ -1290,14 +1244,14 @@ for node in G.nodes():
 # -----------------------------------------------------
 
 plt.figure(
-    figsize=(18, 14)
+    figsize=(10.5, 8)
 )
 
 pos = nx.spring_layout(
 
     G,
 
-    k=7,
+    k=12,
 
     iterations=300,
 
@@ -1316,7 +1270,9 @@ for node in G.nodes():
         weighted_degree_df["construct"] == node
     ]["weighted_degree"].values[0]
 
-    node_sizes.append(size * 12)
+    node_sizes.append(
+        400 + size * 7
+    )
 
 # -----------------------------------------------------
 # EDGES
@@ -1333,7 +1289,7 @@ strong_edges = [
 
 edge_widths = [
 
-    G[u][v]["weight"] * 0.9
+    0.4 + G[u][v]["weight"] * 0.8
 
     for u, v in strong_edges
 ]
@@ -1348,7 +1304,7 @@ nx.draw_networkx_edges(
 
     width=edge_widths,
 
-    alpha=0.18,
+    alpha=0.16,
 
     edge_color="gray",
 
@@ -1384,9 +1340,9 @@ nx.draw_networkx_labels(
 
     pos,
 
-    font_size=14,
+    font_size=9,
 
-    font_weight="bold"
+    font_weight="normal"
 )
 
 # -----------------------------------------------------
@@ -1397,7 +1353,7 @@ plt.title(
 
     "Semantic Communities (Louvain Detection)",
 
-    fontsize=24
+    fontsize=15
 )
 
 plt.axis("off")
